@@ -1,5 +1,5 @@
 Object blank_wand
-name wand
+name wand (lvl 0)
 face wand.111
 animation wand
 anim_speed 10
