@@ -2,5 +2,7 @@ treasure human_player_items
   arch human_player_force
   more
   list random_knowledge
+  more
+  arch no_class_face_change
   end
 
