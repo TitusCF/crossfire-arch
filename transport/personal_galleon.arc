@@ -1,5 +1,6 @@
-arch personal_galleon
+Object personal_galleon
 name Personal Ship
+animation personal_ship
 face galleon.111
 private_transport 1
 private_transport_cabins_limit 3

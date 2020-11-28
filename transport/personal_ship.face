@@ -1,0 +1,31 @@
+animation personal_ship
+facings 8
+Galeon_up.111
+Galeon_up.112
+Galeon_up.113
+Galeon_upright.121
+Galeon_upright.122
+Galeon_upright.123
+Galeon_right.131
+Galeon_right.132
+Galeon_right.133
+Galeon_downright.141
+Galeon_downright.142
+Galeon_downright.143
+Galeon_down.151
+Galeon_down.152
+Galeon_down.153
+Galeon_downleft.161
+Galeon_downleft.162
+Galeon_downleft.163
+Galeon_left.171
+Galeon_left.172
+Galeon_left.173
+Galeon_upleft.181
+Galeon_upleft.182
+Galeon_upleft.183
+mina
+face Galeon_left.171
+magicmap brown
+visibility 100
+end
