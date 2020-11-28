@@ -1,11 +1,35 @@
 animation halfling_player
-facings 4
-halfling.111
-halfling.112
-halfling.131
-halfling.132
-halfling.151
-halfling.152
-halfling.171
-halfling.172
+facings 8
+Halfling_up_walking.111
+Halfling_up_walking.112
+Halfling_up_walking.113
+Halfling_up_walking.114
+Halfling_upright_walking.121
+Halfling_upright_walking.122
+Halfling_upright_walking.123
+Halfling_upright_walking.124
+Halfling_right_walking.131
+Halfling_right_walking.132
+Halfling_right_walking.133
+Halfling_right_walking.134
+Halfling_downright_walking.141
+Halfling_downright_walking.142
+Halfling_downright_walking.143
+Halfling_downright_walking.144
+Halfling_down_walking.151
+Halfling_down_walking.152
+Halfling_down_walking.153
+Halfling_down_walking.154
+Halfling_downleft_walking.161
+Halfling_downleft_walking.162
+Halfling_downleft_walking.163
+Halfling_downleft_walking.164
+Halfling_left_walking.171
+Halfling_left_walking.172
+Halfling_left_walking.173
+Halfling_left_walking.174
+Halfling_upleft_walking.181
+Halfling_upleft_walking.182
+Halfling_upleft_walking.183
+Halfling_upleft_walking.184
 mina

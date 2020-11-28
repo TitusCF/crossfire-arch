@@ -1,11 +1,35 @@
 animation human_player
-facings 4
-human.111
-human.112
-human.131
-human.132
-human.151
-human.152
-human.171
-human.172
+facings 8
+Human_up_walking.111
+Human_up_walking.112
+Human_up_walking.113
+Human_up_walking.114
+Human_upright_walking.121
+Human_upright_walking.122
+Human_upright_walking.123
+Human_upright_walking.124
+Human_right_walking.131
+Human_right_walking.132
+Human_right_walking.133
+Human_right_walking.134
+Human_downright_walking.141
+Human_downright_walking.142
+Human_downright_walking.143
+Human_downright_walking.144
+Human_down_walking.151
+Human_down_walking.152
+Human_down_walking.153
+Human_down_walking.154
+Human_downleft_walking.161
+Human_downleft_walking.162
+Human_downleft_walking.163
+Human_downleft_walking.164
+Human_left_walking.171
+Human_left_walking.172
+Human_left_walking.173
+Human_left_walking.174
+Human_upleft_walking.181
+Human_upleft_walking.182
+Human_upleft_walking.183
+Human_upleft_walking.184
 mina
