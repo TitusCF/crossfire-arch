@@ -124,6 +124,28 @@
 # Basic formulae - these formulae make some of the most often used
 #		   ingredients.
 # --------------
+# blank staff
+Object NONE
+arch blank_staff
+yield 4
+chance 15
+diff 2
+exp 1000
+skill thaumaturgy
+cauldron thaumaturg_desk
+ingred phil_oil,phil_phosphorus,quarterstaff,ruby
+#
+# blank wand
+Object NONE
+arch blank_wand
+yield 4
+chance 15
+diff 2
+exp 1000
+skill thaumaturgy
+cauldron thaumaturg_desk
+ingred phil_oil,phil_phosphorus,u_horn,pearl
+#
 # glass rubble to block
 Object NONE
 arch blockofglass
