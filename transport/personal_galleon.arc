@@ -1,8 +1,7 @@
 Object personal_galleon
 name Personal Ship
 animation personal_ship
-is_animated 1
-anim_speed -1
+turnable_transport 1
 unique 1
 face Galeon_left.171
 private_transport 1
