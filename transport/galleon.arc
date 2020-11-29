@@ -1,6 +1,7 @@
 Object galleon
 name caravel
-face galleon.111
+face Galeon_left.171
+animation personal_ship
 type 66
 no_pick 1
 move_allow walk
