@@ -2,7 +2,7 @@ Object ogre
 name ogre
 randomitems ogre
 race giant
-face ogre.111
+face ogre_base_walking.151
 animation ogre
 monster 1
 move_type walk

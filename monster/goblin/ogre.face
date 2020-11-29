@@ -1,6 +1,37 @@
 animation ogre
-ogre.111
-ogre.112
+facings 8
+ogre_up_walking.111
+ogre_up_walking.112
+ogre_up_walking.113
+ogre_up_walking.114
+ogre_upright_walking.121
+ogre_upright_walking.122
+ogre_upright_walking.123
+ogre_upright_walking.124
+ogre_right_walking.131
+ogre_right_walking.132
+ogre_right_walking.133
+ogre_right_walking.134
+ogre_downright_walking.141
+ogre_downright_walking.142
+ogre_downright_walking.143
+ogre_downright_walking.144
+ogre_down_walking.151
+ogre_down_walking.152
+ogre_down_walking.153
+ogre_down_walking.154
+ogre_downleft_walking.161
+ogre_downleft_walking.162
+ogre_downleft_walking.163
+ogre_downleft_walking.164
+ogre_left_walking.171
+ogre_left_walking.172
+ogre_left_walking.173
+ogre_left_walking.174
+ogre_upleft_walking.181
+ogre_upleft_walking.182
+ogre_upleft_walking.183
+ogre_upleft_walking.184
 mina
 face ogre.111
 magicmap brown
