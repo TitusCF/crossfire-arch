@@ -3,6 +3,7 @@ name galleon
 type 66
 face Ship_still.111
 animation stationary_ship
+is_animated 1
 no_pick 1
 move_allow walk
 move_block boat
@@ -13,7 +14,7 @@ Object s_ship2
 name galleon
 type 66
 face Ship_still.111
-animation s_ship
+animation stationary_ship
 x 1
 no_pick 1
 move_allow walk
@@ -24,7 +25,7 @@ Object s_ship3
 name galleon
 type 66
 face Ship_still.111
-animation s_ship
+animation stationary_ship
 y 1
 no_pick 1
 move_allow walk
@@ -35,7 +36,7 @@ Object s_ship4
 name galleon
 type 66
 face Ship_still.111
-animation s_ship
+animation stationary_ship
 x 1
 y 1
 no_pick 1
