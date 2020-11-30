@@ -4,7 +4,6 @@ type 66
 face Ship_right.131
 animation guild_flagship
 is_animated 1
-anim_speed -1
 no_pick 1
 move_allow walk
 move_block boat
