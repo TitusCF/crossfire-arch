@@ -1,7 +1,8 @@
 Object s_ship_black
 name black ship
 type 66
-face s_ship_black.x11
+face Ship_right.131
+animation guild_flagship
 no_pick 1
 move_allow walk
 move_block boat
@@ -12,7 +13,7 @@ More
 Object s_ship_black2
 name black ship
 type 66
-face s_ship_black.x11
+face Ship_right.131
 x 1
 no_pick 1
 move_allow walk
@@ -23,7 +24,7 @@ More
 Object s_ship_black3
 name black ship
 type 66
-face s_ship_black.x11
+face Ship_right.131
 y 1
 no_pick 1
 move_allow walk
@@ -34,7 +35,7 @@ More
 Object s_ship_black4
 name black ship
 type 66
-face s_ship_black.x11
+face Ship_right.131
 x 1
 y 1
 no_pick 1
