@@ -3,7 +3,7 @@ name galleon
 type 66
 face Ship_still.111
 animation stationary_ship
-is_animated 1
+speed 0.50
 no_pick 1
 move_allow walk
 move_block boat

@@ -25,4 +25,8 @@ Ship_upleft.181
 Ship_upleft.182
 Ship_upleft.183
 mina
+face Ship_left.171
+magicmap brown
+visibility 100
+end
 
