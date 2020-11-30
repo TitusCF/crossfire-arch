@@ -5,6 +5,7 @@ face Ship_right.131
 animation guild_flagship
 is_animated 1
 no_pick 1
+passenger_limit 4
 move_allow walk
 move_block boat
 visibility 100
