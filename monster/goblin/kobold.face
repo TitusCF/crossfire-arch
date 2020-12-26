@@ -1,10 +1,36 @@
 animation kobold
-kobold.111
-kobold.112
+facings 8
+kobold_base_up_walking.111
+kobold_base_up_walking.112
+kobold_base_up_walking.113
+kobold_base_up_walking.114
+kobold_base_upright_walking.121
+kobold_base_upright_walking.122
+kobold_base_upright_walking.123
+kobold_base_upright_walking.124
+kobold_base_right_walking.131
+kobold_base_right_walking.132
+kobold_base_right_walking.133
+kobold_base_right_walking.134
+kobold_base_downright_walking.141
+kobold_base_downright_walking.142
+kobold_base_downright_walking.143
+kobold_base_downright_walking.144
+kobold_base_down_walking.151
+kobold_base_down_walking.152
+kobold_base_down_walking.153
+kobold_base_down_walking.154
+kobold_base_downleft_walking.161
+kobold_base_downleft_walking.162
+kobold_base_downleft_walking.163
+kobold_base_downleft_walking.164
+kobold_base_left_walking.171
+kobold_base_left_walking.172
+kobold_base_left_walking.173
+kobold_base_left_walking.174
+kobold_base_upleft_walking.181
+kobold_base_upleft_walking.182
+kobold_base_upleft_walking.183
+kobold_base_upleft_walking.184
 mina
-face kobold.111
-magicmap brown
-end
-face kobold.112
-magicmap brown
-end
+

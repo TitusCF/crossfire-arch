@@ -2,7 +2,7 @@ Object snake
 randomitems snake
 race reptile
 other_arch snake
-face snake.111
+face snake_base_right_walking.131
 speed -0.1
 generator 1
 sp 134

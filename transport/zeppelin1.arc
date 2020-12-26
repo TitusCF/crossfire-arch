@@ -3,15 +3,7 @@ name Luftschiff
 type 2
 face zeppelin1.x11
 speed 1
-animation
-zeppelin1.x11
-zeppelin1.x12
-zeppelin1.x13
-zeppelin1.x14
-zeppelin1.x14
-zeppelin1.x13
-zeppelin1.x12
-zeppelin1.x11
+animation zepp
 no_pick 1
 move_allow walk
 move_block flying
@@ -25,15 +17,7 @@ type 2
 face zeppelin1.x11
 x 1
 speed 1
-animation
-zeppelin1.x11
-zeppelin1.x12
-zeppelin1.x13
-zeppelin1.x14
-zeppelin1.x14
-zeppelin1.x13
-zeppelin1.x12
-zeppelin1.x11
+animation zepp
 no_pick 1
 move_allow walk
 move_block boat
@@ -46,16 +30,7 @@ type 2
 face zeppelin1.x11
 y 1
 speed 1
-anim
-zeppelin1.x11
-zeppelin1.x12
-zeppelin1.x13
-zeppelin1.x14
-zeppelin1.x14
-zeppelin1.x13
-zeppelin1.x12
-zeppelin1.x11
-mina
+animation zepp
 no_pick 1
 move_allow walk
 move_block flying
@@ -69,15 +44,7 @@ face zeppelin1.x11
 x 1
 y 1
 speed 1
-animation
-zeppelin1.x11
-zeppelin1.x12
-zeppelin1.x13
-zeppelin1.x14
-zeppelin1.x14
-zeppelin1.x13
-zeppelin1.x12
-zeppelin1.x11
+animation zepp
 no_pick 1
 move_allow walk
 move_block flying

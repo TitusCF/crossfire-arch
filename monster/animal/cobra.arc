@@ -1,6 +1,6 @@
 Object cobra
 name giant cobra
-face cobra.x12
+face cobra_base_right_walking.131
 animation cobra
 race reptile
 speed -0.2
@@ -20,13 +20,4 @@ hp 40
 maxhp 40
 level 5
 weight 20000
-end
-More
-Object cobra_2
-name giant cobra
-face cobra.x12
-animation cobra
-alive 1
-no_pick 1
-y 1
 end

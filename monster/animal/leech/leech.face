@@ -1,11 +1,36 @@
 animation leech
-facings 2
-leech.131
-leech.132
-leech.133
-leech.132
-leech.171
-leech.172
-leech.173
-leech.172
+facings 8
+leech_base_up_walking.111
+leech_base_up_walking.112
+leech_base_up_walking.113
+leech_base_up_walking.114
+leech_base_upright_walking.121
+leech_base_upright_walking.122
+leech_base_upright_walking.123
+leech_base_upright_walking.124
+leech_base_right_walking.131
+leech_base_right_walking.132
+leech_base_right_walking.133
+leech_base_right_walking.134
+leech_base_downright_walking.141
+leech_base_downright_walking.142
+leech_base_downright_walking.143
+leech_base_downright_walking.144
+leech_base_down_walking.151
+leech_base_down_walking.152
+leech_base_down_walking.153
+leech_base_down_walking.154
+leech_base_downleft_walking.161
+leech_base_downleft_walking.162
+leech_base_downleft_walking.163
+leech_base_downleft_walking.164
+leech_base_left_walking.171
+leech_base_left_walking.172
+leech_base_left_walking.173
+leech_base_left_walking.174
+leech_base_upleft_walking.181
+leech_base_upleft_walking.182
+leech_base_upleft_walking.183
+leech_base_upleft_walking.184
 mina
+

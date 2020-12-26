@@ -1,7 +1,36 @@
 animation ogre_leader_arc
-ogre_leader.111
-ogre_leader.111
+facings 8
+ogre_leader_base_up_walking.111
+ogre_leader_base_up_walking.112
+ogre_leader_base_up_walking.113
+ogre_leader_base_up_walking.114
+ogre_leader_base_upright_walking.121
+ogre_leader_base_upright_walking.122
+ogre_leader_base_upright_walking.123
+ogre_leader_base_upright_walking.124
+ogre_leader_base_right_walking.131
+ogre_leader_base_right_walking.132
+ogre_leader_base_right_walking.133
+ogre_leader_base_right_walking.134
+ogre_leader_base_downright_walking.141
+ogre_leader_base_downright_walking.142
+ogre_leader_base_downright_walking.143
+ogre_leader_base_downright_walking.144
+ogre_leader_base_down_walking.151
+ogre_leader_base_down_walking.152
+ogre_leader_base_down_walking.153
+ogre_leader_base_down_walking.154
+ogre_leader_base_downleft_walking.161
+ogre_leader_base_downleft_walking.162
+ogre_leader_base_downleft_walking.163
+ogre_leader_base_downleft_walking.164
+ogre_leader_base_left_walking.171
+ogre_leader_base_left_walking.172
+ogre_leader_base_left_walking.173
+ogre_leader_base_left_walking.174
+ogre_leader_base_upleft_walking.181
+ogre_leader_base_upleft_walking.182
+ogre_leader_base_upleft_walking.183
+ogre_leader_base_upleft_walking.184
 mina
-face ogre_leader.111
-magicmap brown
-end
+

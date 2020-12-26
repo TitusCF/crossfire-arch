@@ -1,7 +1,6 @@
 Object personal_galleon
 name Personal Ship
 animation personal_ship
-turnable_transport 1
 unique 1
 face Galeon_left.171
 private_transport 1
@@ -20,7 +19,7 @@ passenger_limit 2
 move_type swim boat
 move_block swim boat
 move_allow walk
-x 1
+x 0
 y 0
 end
 

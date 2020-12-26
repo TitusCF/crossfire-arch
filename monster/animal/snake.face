@@ -1,14 +1,36 @@
 animation snake
-snake.111
-snake.112
-snake.113
+facings 8
+snake_base_up_walking.111
+snake_base_up_walking.112
+snake_base_up_walking.113
+snake_base_up_walking.114
+snake_base_upright_walking.121
+snake_base_upright_walking.122
+snake_base_upright_walking.123
+snake_base_upright_walking.124
+snake_base_right_walking.131
+snake_base_right_walking.132
+snake_base_right_walking.133
+snake_base_right_walking.134
+snake_base_downright_walking.141
+snake_base_downright_walking.142
+snake_base_downright_walking.143
+snake_base_downright_walking.144
+snake_base_down_walking.151
+snake_base_down_walking.152
+snake_base_down_walking.153
+snake_base_down_walking.154
+snake_base_downleft_walking.161
+snake_base_downleft_walking.162
+snake_base_downleft_walking.163
+snake_base_downleft_walking.164
+snake_base_left_walking.171
+snake_base_left_walking.172
+snake_base_left_walking.173
+snake_base_left_walking.174
+snake_base_upleft_walking.181
+snake_base_upleft_walking.182
+snake_base_upleft_walking.183
+snake_base_upleft_walking.184
 mina
-face snake.111
-magicmap green
-end
-face snake.112
-magicmap green
-end
-face snake.113
-magicmap green
-end
+

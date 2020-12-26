@@ -1,10 +1,36 @@
-face cobra.x12
-magicmap green
 animation cobra
-cobra.x11
-cobra.x12
-cobra.x13
-cobra.x12
+facings 8
+cobra_base_up_walking.111
+cobra_base_up_walking.112
+cobra_base_up_walking.113
+cobra_base_up_walking.114
+cobra_base_upright_walking.121
+cobra_base_upright_walking.122
+cobra_base_upright_walking.123
+cobra_base_upright_walking.124
+cobra_base_right_walking.131
+cobra_base_right_walking.132
+cobra_base_right_walking.133
+cobra_base_right_walking.134
+cobra_base_downright_walking.141
+cobra_base_downright_walking.142
+cobra_base_downright_walking.143
+cobra_base_downright_walking.144
+cobra_base_down_walking.151
+cobra_base_down_walking.152
+cobra_base_down_walking.153
+cobra_base_down_walking.154
+cobra_base_downleft_walking.161
+cobra_base_downleft_walking.162
+cobra_base_downleft_walking.163
+cobra_base_downleft_walking.164
+cobra_base_left_walking.171
+cobra_base_left_walking.172
+cobra_base_left_walking.173
+cobra_base_left_walking.174
+cobra_base_upleft_walking.181
+cobra_base_upleft_walking.182
+cobra_base_upleft_walking.183
+cobra_base_upleft_walking.184
 mina
-end
 
