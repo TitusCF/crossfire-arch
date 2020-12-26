@@ -7,9 +7,9 @@ private_transport 1
 private_transport_cabins_limit 3
 private_transport_base_speed 0.5
 private_transport_cabin_template /test/private_transports/cabin_template
-private_transport_cabin_entrance_x 0
-private_transport_cabin_entrance_y 0
-private_transport_cabin_exit_x 1
+private_transport_cabin_entrance_x 18
+private_transport_cabin_entrance_y 4
+private_transport_cabin_exit_x 19
 private_transport_cabin_exit_y 4
 speed 0.5
 type 2
