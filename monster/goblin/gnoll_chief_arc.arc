@@ -2,7 +2,7 @@ Object gnoll_chief_arc
 name gnoll chief
 randomitems gnoll
 race goblin
-face gnoll_chief.111
+face gnoll_chief_down_walking.151
 animation gnoll_chief_arc
 monster 1
 move_type walk

@@ -2,7 +2,7 @@ Object ogre_chief_arc
 name ogre chief
 randomitems ogre
 race giant
-face ogre_chief.111
+face ogre_chief_down_walking.151
 animation ogre_chief_arc
 monster 1
 move_type walk

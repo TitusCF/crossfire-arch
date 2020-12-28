@@ -1,35 +1,36 @@
 animation goblin
-facings 4
-goblin.111
-goblin.112
-goblin.131
-goblin.132
-goblin.151
-goblin.152
-goblin.171
-goblin.172
+facings 8
+goblin_base_up_walking.111
+goblin_base_up_walking.112
+goblin_base_up_walking.113
+goblin_base_up_walking.114
+goblin_base_upright_walking.121
+goblin_base_upright_walking.122
+goblin_base_upright_walking.123
+goblin_base_upright_walking.124
+goblin_base_right_walking.131
+goblin_base_right_walking.132
+goblin_base_right_walking.133
+goblin_base_right_walking.134
+goblin_base_downright_walking.141
+goblin_base_downright_walking.142
+goblin_base_downright_walking.143
+goblin_base_downright_walking.144
+goblin_base_down_walking.151
+goblin_base_down_walking.152
+goblin_base_down_walking.153
+goblin_base_down_walking.154
+goblin_base_downleft_walking.161
+goblin_base_downleft_walking.162
+goblin_base_downleft_walking.163
+goblin_base_downleft_walking.164
+goblin_base_left_walking.171
+goblin_base_left_walking.172
+goblin_base_left_walking.173
+goblin_base_left_walking.174
+goblin_base_upleft_walking.181
+goblin_base_upleft_walking.182
+goblin_base_upleft_walking.183
+goblin_base_upleft_walking.184
 mina
-face goblin.111
-magicmap green
-end
-face goblin.112
-magicmap green
-end
-face goblin.131
-magicmap green
-end
-face goblin.132
-magicmap green
-end
-face goblin.151
-magicmap green
-end
-face goblin.152
-magicmap green
-end
-face goblin.171
-magicmap green
-end
-face goblin.172
-magicmap green
-end
+

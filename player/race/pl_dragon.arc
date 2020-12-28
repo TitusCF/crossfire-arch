@@ -9,7 +9,7 @@ Spells: Burning Hands, Medium Fireball
 Special: cannot use weapons or most armor; gain resistances by eating corpses;
          leveling improves natural armor and can grant elemental abilities.
 ---
-Dragons are completely different than any other race. Their vast size and bizarre body prevents them from wearing armor. Instead, they are gifted with the ability to evolve and grow stronger by eating the flesh of their defeated foes.
+Dragons are completely different than any other race. Their vast size and bizarre body prevents them from wearing armor and holding weapons. Instead, they are gifted with the ability to evolve and grow stronger by eating the flesh of their defeated foes.
 Over the years, their dragonhide hardens and it can provide better protection than the best armour. Moreover, dragons have a natural talent for magic.
 Dragons are very interested in the lore of the elements and usually choose to specialize. While focusing their metabolism on a certain element, they can gain various new abilities -- including new spells, enhanced claws and more. Eventually, a dragon is able to evolve from the hatchling stage into a grown-up terrifying ancient
 dragon.
@@ -29,7 +29,7 @@ speed 1
 attacktype 1
 can_use_shield 0
 can_use_armour 0
-can_use_weapon 1
+can_use_weapon 0
 Str 5
 Dex 0
 Con 6

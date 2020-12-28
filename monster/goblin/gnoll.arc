@@ -1,7 +1,7 @@
 Object gnoll
 randomitems gnoll
 race goblin
-face gnoll.111
+face gnoll_base_down_walking.151
 animation gnoll
 monster 1
 move_type walk

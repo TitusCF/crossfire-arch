@@ -1,10 +1,36 @@
 animation gnoll
-gnoll.111
-gnoll.112
+facings 8
+gnoll_base_up_walking.111
+gnoll_base_up_walking.112
+gnoll_base_up_walking.113
+gnoll_base_up_walking.114
+gnoll_base_upright_walking.121
+gnoll_base_upright_walking.122
+gnoll_base_upright_walking.123
+gnoll_base_upright_walking.124
+gnoll_base_right_walking.131
+gnoll_base_right_walking.132
+gnoll_base_right_walking.133
+gnoll_base_right_walking.134
+gnoll_base_downright_walking.141
+gnoll_base_downright_walking.142
+gnoll_base_downright_walking.143
+gnoll_base_downright_walking.144
+gnoll_base_down_walking.151
+gnoll_base_down_walking.152
+gnoll_base_down_walking.153
+gnoll_base_down_walking.154
+gnoll_base_downleft_walking.161
+gnoll_base_downleft_walking.162
+gnoll_base_downleft_walking.163
+gnoll_base_downleft_walking.164
+gnoll_base_left_walking.171
+gnoll_base_left_walking.172
+gnoll_base_left_walking.173
+gnoll_base_left_walking.174
+gnoll_base_upleft_walking.181
+gnoll_base_upleft_walking.182
+gnoll_base_upleft_walking.183
+gnoll_base_upleft_walking.184
 mina
-face gnoll.111
-magicmap brown
-end
-face gnoll.112
-magicmap brown
-end
+
