@@ -12,28 +12,22 @@ treasure Hanuk
   more
   arch god_enchant_weapon_medium
     chance 50
-  more 
-arch god_grace_limit_medium
   more
+arch god_grace_limit_medium
+more
   arch spell_nightfall
-  	chance 80
   more
   arch spell_create_blackfire_wall
-  	chance 70
   more
   arch spell_small_blackfireball
-  	chance 60
   more
   arch spell_medium_blackfireball
-  	chance 50
   more
-  arch god_grace_limit_high
-  more
+arch god_grace_limit_high
+more
   arch spell_large_blackfireball
-    chance 10
   more
   list hanuk_treasure
-     chance 10
   end
 treasure hanuk_treasure
   arch heart_hanuk_str
