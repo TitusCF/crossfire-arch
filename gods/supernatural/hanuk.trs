@@ -10,8 +10,11 @@ treasure Hanuk
   arch hanuk_general_info
     chance 10
   more
+  arch god_enchant_weapon_medium
+    chance 50
+  more 
 arch god_grace_limit_medium
-more
+  more
   arch spell_nightfall
   	chance 80
   more
@@ -24,27 +27,27 @@ more
   arch spell_medium_blackfireball
   	chance 50
   more
-arch god_grace_limit_high
+  arch god_grace_limit_high
   more
   arch spell_large_blackfireball
     chance 10
   more
   list hanuk_treasure
      chance 10
-end
+  end
 treasure hanuk_treasure
-   arch heart_hanuk_str
+  arch heart_hanuk_str
      chance 25
      more
-   arch heart_hanuk_pow
+  arch heart_hanuk_pow
      chance 25
      more
-   arch heart_hanuk_fire
+  arch heart_hanuk_fire
      chance 20
      more
-   arch heart_hanuk_cold
+  arch heart_hanuk_cold
      chance 20
      more
-   arch heart_hanuk_chaos
+  arch heart_hanuk_chaos
      chance 10
-end
+  end
