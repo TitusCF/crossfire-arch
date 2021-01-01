@@ -1,4 +1,4 @@
-treasure sea_earth
-  arch earth
+treasurelist sea_earth
+  list earth
     chance 100
 end
