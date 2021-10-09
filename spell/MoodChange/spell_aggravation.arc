@@ -7,7 +7,7 @@ level 1
 sp 1
 casting_time 1
 path_attuned 1024
-skill ????
+skill sorcery
 type 101
 subtype 34
 value 10
