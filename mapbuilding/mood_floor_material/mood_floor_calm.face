@@ -1,9 +1,4 @@
 animation mood_floor_calm
 face mood_floor_base.111
-magicmap black
-visibility 50
-end
 face mood_floor_calm.112
-magicmap black
-visibility 50
-end
+mina
