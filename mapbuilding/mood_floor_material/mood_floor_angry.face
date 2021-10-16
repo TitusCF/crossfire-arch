@@ -1,9 +1,4 @@
 animation mood_floor_angry
-face mood_floor_base.111
-magicmap black
-visibility 50
-end
-face mood_floor_angry.112
-magicmap black
-visibility 50
-end
+mood_floor_base.111
+mood_floor_angry.112
+mina
