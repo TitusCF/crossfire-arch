@@ -1,11 +1,35 @@
-animation serpentman_player
-facings 4
-serpentman.111
-serpentman.112
-serpentman.131
-serpentman.132
-serpentman.151
-serpentman.152
-serpentman.171
-serpentman.172
+animation Serpent_player
+facings 8
+Serpent_up_walking.111
+Serpent_up_walking.112
+Serpent_up_walking.113
+Serpent_up_walking.114
+Serpent_upright_walking.121
+Serpent_upright_walking.122
+Serpent_upright_walking.123
+Serpent_upright_walking.124
+Serpent_right_walking.131
+Serpent_right_walking.132
+Serpent_right_walking.133
+Serpent_right_walking.134
+Serpent_downright_walking.141
+Serpent_downright_walking.142
+Serpent_downright_walking.143
+Serpent_downright_walking.144
+Serpent_down_walking.151
+Serpent_down_walking.152
+Serpent_down_walking.153
+Serpent_down_walking.154
+Serpent_downleft_walking.161
+Serpent_downleft_walking.162
+Serpent_downleft_walking.163
+Serpent_downleft_walking.164
+Serpent_left_walking.171
+Serpent_left_walking.172
+Serpent_left_walking.173
+Serpent_left_walking.174
+Serpent_upleft_walking.181
+Serpent_upleft_walking.182
+Serpent_upleft_walking.183
+Serpent_upleft_walking.184
 mina

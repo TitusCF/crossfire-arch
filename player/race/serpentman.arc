@@ -1,4 +1,4 @@
-Object serpentman_player
+Object Serpent_player
 name serpentman
 race reptile
 randomitems serpentman_player_items

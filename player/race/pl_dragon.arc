@@ -112,8 +112,8 @@ type 10
 exp 4
 neutral 1
 no_drop 1
-face pl_dragon_bl.151
-animation pl_dragon_bl
+face Dragon_black_player_down_walking.151
+animation Dragon_black_player_walking
 is_animated 1
 anim_speed -1
 auto_apply 1

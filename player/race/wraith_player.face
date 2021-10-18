@@ -1,11 +1,35 @@
 animation wraith_player
-facings 4
-wraithp.111
-wraithp.112
-wraithp.131
-wraithp.132
-wraithp.151
-wraithp.152
-wraithp.171
-wraithp.172
+facings 8
+wraith_up_walking.111
+wraith_up_walking.112
+wraith_up_walking.113
+wraith_up_walking.114
+wraith_upright_walking.121
+wraith_upright_walking.122
+wraith_upright_walking.123
+wraith_upright_walking.124
+wraith_right_walking.131
+wraith_right_walking.132
+wraith_right_walking.133
+wraith_right_walking.134
+wraith_downright_walking.141
+wraith_downright_walking.142
+wraith_downright_walking.143
+wraith_downright_walking.144
+wraith_down_walking.151
+wraith_down_walking.152
+wraith_down_walking.153
+wraith_down_walking.154
+wraith_downleft_walking.161
+wraith_downleft_walking.162
+wraith_downleft_walking.163
+wraith_downleft_walking.164
+wraith_left_walking.171
+wraith_left_walking.172
+wraith_left_walking.173
+wraith_left_walking.174
+wraith_upleft_walking.181
+wraith_upleft_walking.182
+wraith_upleft_walking.183
+wraith_upleft_walking.184
 mina

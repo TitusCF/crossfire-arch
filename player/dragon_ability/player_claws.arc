@@ -10,7 +10,7 @@ invisible 1
 attacktype 4
 no_drop 1
 skill clawing
-animation pl_dragon_r
+animation Dragon_red_player_clawing
 end
 #
 Object ice_clawing
@@ -25,7 +25,7 @@ invisible 1
 attacktype 16
 no_drop 1
 skill clawing
-animation pl_dragon_bl
+animation Dragon_black_player_clawing
 end
 #
 Object electric_clawing
@@ -40,7 +40,7 @@ skill clawing
 invisible 1
 attacktype 8
 no_drop 1
-animation pl_dragon_blue
+animation Dragon_blue_player_clawing
 end
 #
 Object poison_clawing
@@ -55,5 +55,5 @@ skill clawing
 invisible 1
 attacktype 1024
 no_drop 1
-animation pl_dragon_g
+animation Dragon_green_player_clawing
 end
