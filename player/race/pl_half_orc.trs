@@ -4,5 +4,7 @@ treasure half_orc_player_items
   arch skill_stealing
   more
   arch dikshunary
+  more
+  arch no_class_face_change
   end
 
