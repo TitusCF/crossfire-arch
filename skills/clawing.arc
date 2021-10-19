@@ -1,7 +1,7 @@
 Object skill_clawing
 name clawing
 skill clawing
-animation clawing
+anim_suffix clawing
 type 43
 invisible 1
 dam 2
