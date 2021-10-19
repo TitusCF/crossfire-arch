@@ -14,7 +14,7 @@ Over the years, their dragonhide hardens and it can provide better protection th
 Dragons are very interested in the lore of the elements and usually choose to specialize. While focusing their metabolism on a certain element, they can gain various new abilities -- including new spells, enhanced claws and more. Eventually, a dragon is able to evolve from the hatchling stage into a grown-up terrifying ancient
 dragon.
 endmsg
-animation pl_dragon_r
+animation Dragon_red_player
 is_animated 1
 anim_speed -1
 type 1
@@ -83,7 +83,7 @@ exp 2
 neutral 1
 no_drop 1
 face pl_dragon_r.151
-animation pl_dragon_r
+animation Dragon_red_player
 is_animated 1
 anim_speed -1
 auto_apply 1
@@ -98,8 +98,7 @@ exp 3
 neutral 1
 no_drop 1
 face pl_dragon_blue.151
-animation pl_dragon_blue
-is_animated 1
+animation Dragon_blue_player
 anim_speed -1
 auto_apply 1
 end
@@ -113,7 +112,7 @@ exp 4
 neutral 1
 no_drop 1
 face Dragon_black_player_down_walking.151
-animation Dragon_black_player_walking
+animation Dragon_black_player
 is_animated 1
 anim_speed -1
 auto_apply 1
@@ -128,7 +127,7 @@ exp 10
 neutral 1
 no_drop 1
 face pl_dragon_g.151
-animation pl_dragon_g
+animation Dragon_green_player
 is_animated 1
 anim_speed -1
 auto_apply 1
