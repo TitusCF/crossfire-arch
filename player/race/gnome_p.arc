@@ -1,6 +1,6 @@
 Object gnome_player
 name gnome
-race dwarf
+race gnome
 randomitems gnome_player_items
 face gnome_p.151
 msg
