@@ -1,4 +1,4 @@
-Object wraith_player
+Object wraithp
 name wraith
 race undead
 randomitems wraith_player_items
