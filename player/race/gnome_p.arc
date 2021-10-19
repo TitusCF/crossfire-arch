@@ -2,7 +2,7 @@ Object gnome_player
 name gnome
 race gnome
 randomitems gnome_player_items
-face gnome_p.151
+face gnome_down_walking.151
 msg
 Skills: Praying
 Special: darkvision, lucky
@@ -23,18 +23,17 @@ can_use_armour 1
 can_use_weapon 1
 can_see_in_dark 1
 alive 1
-weight 50000
+weight 80000
 food 999
 speed 1
-luck 1
 attacktype 1
-Str -1
-Dex -3
-Con -2
-Int 0
-Wis 3
-Pow 3
-Cha 0
+Str 3
+Dex -2
+Con 4
+Int -2
+Wis -1
+Pow -2
+Cha -1
 body_range 1
 body_arm 2
 body_torso 1
@@ -54,10 +53,11 @@ maxgrace 30
 sound_chance 100
 end
 Object gnome_player_force
-name gnome force
+name gnome_force
 invisible 1
-speed 0
-type 114
 applied 1
+face blank.111
 no_drop 1
+type 114
+speed 0
 end
