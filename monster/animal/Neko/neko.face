@@ -1,35 +1,59 @@
 animation neko
-facings 2
-neko.111
-neko.112
-neko.113
-neko.114
-neko.115
-neko.116
-neko.117
-neko.118
+facings 8
+cat_up_walk.111
+cat_up_walk.112
+cat_up_walk.113
+cat_up_walk.114
+cat_rightup_walk.121
+cat_rightup_walk.122
+cat_rightup_walk.123
+cat_rightup_walk.124
+cat_right_walk.131
+cat_right_walk.132
+cat_right_walk.133
+cat_right_walk.134
+cat_downright_walk.141
+cat_downright_walk.142
+cat_downright_walk.143
+cat_downright_walk.144
+cat_down_walk.151
+cat_down_walk.152
+cat_down_walk.153
+cat_down_walk.154
+cat_downleft_walk.161
+cat_downleft_walk.162
+cat_downleft_walk.163
+cat_downleft_walk.164
+cat_left_walk.171
+cat_left_walk.172
+cat_left_walk.173
+cat_left_walk.174
+cat_upleft_walk.181
+cat_upleft_walk.182
+cat_upleft_walk.183
+cat_upleft_walk.184
 mina
-face neko.111
+face cat_down_walk.111
 magicmap brown
 end
-face neko.112
+face cat_down_walk.112
 magicmap brown
 end
-face neko.113
+face cat_down_walk.113
 magicmap brown
 end
-face neko.114
+face cat_down_walk.114
 magicmap brown
 end
-face neko.115
+face cat_down_walk.115
 magicmap brown
 end
-face neko.116
+face cat_down_walk.116
 magicmap brown
 end
-face neko.117
+face cat_down_walk.117
 magicmap brown
 end
-face neko.118
+face cat_down_walk.118
 magicmap brown
 end

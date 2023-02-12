@@ -4,7 +4,7 @@
 Object neko
 race animal
 name neko chan
-face neko.111
+face cat_down_walk.111
 animation neko
 monster 1
 move_type walk
@@ -12,6 +12,8 @@ sleep 1
 Wis 8
 no_pick 1
 alive 1
+msg
+meow! 
 exp 2
 ac 12
 wc 15
