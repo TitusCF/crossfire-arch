@@ -4,7 +4,7 @@
 Object neko
 race animal
 name neko chan
-face cat_down_walk.111
+face cat_down_walk.151
 animation neko
 monster 1
 move_type walk
