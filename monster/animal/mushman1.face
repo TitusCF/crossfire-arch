@@ -1,11 +1,36 @@
 animation mushman1
-facings 4
-mushman1.111
-mushman1.112
-mushman1.131
-mushman1.132
-mushman1.151
-mushman1.152
-mushman1.171
-mushman1.172
+facings 8
+mushguy_up_walk.111
+mushguy_up_walk.112
+mushguy_up_walk.113
+mushguy_up_walk.114
+mushguy_rightup_walk.121
+mushguy_rightup_walk.122
+mushguy_rightup_walk.123
+mushguy_rightup_walk.124
+mushguy_right_walk.131
+mushguy_right_walk.132
+mushguy_right_walk.133
+mushguy_right_walk.134
+mushguy_downright_walk.141
+mushguy_downright_walk.142
+mushguy_downright_walk.143
+mushguy_downright_walk.144
+mushguy_down_walk.151
+mushguy_down_walk.152
+mushguy_down_walk.153
+mushguy_down_walk.154
+mushguy_downleft_walk.161
+mushguy_downleft_walk.162
+mushguy_downleft_walk.163
+mushguy_downleft_walk.164
+mushguy_left_walk.171
+mushguy_left_walk.172
+mushguy_left_walk.173
+mushguy_left_walk.174
+mushguy_upleft_walk.181
+mushguy_upleft_walk.182
+mushguy_upleft_walk.183
+mushguy_upleft_walk.184
 mina
+
