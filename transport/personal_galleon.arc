@@ -15,6 +15,7 @@ speed 0.5
 type 2
 weight 100
 container 10000000
+no_pick 1
 passenger_limit 2
 move_type swim boat
 move_block swim boat
