@@ -1,9 +1,5 @@
-# This is a unique object (maybe shouldn't be an arch then?)
-# but as an arch, it needs to be valid, so I've
-# adjusted exp, wc, and ac.
 Object neko
 race animal
-name neko chan
 face cat_down_walk.151
 animation neko
 monster 1
@@ -12,8 +8,6 @@ sleep 1
 Wis 8
 no_pick 1
 alive 1
-msg
-meow! 
 exp 2
 ac 12
 wc 15
