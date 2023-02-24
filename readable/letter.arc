@@ -2,7 +2,7 @@ Object letter
 face letter.111
 nrof 1
 type 8
-subtype 27
+subtype 1
 skill literacy
 material 1
 value 20
