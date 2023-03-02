@@ -1,7 +1,8 @@
 Object guard
 race human
 name castle guard
-face guard_hard.111
+face Guard_walk_down_1.111
+animation guard_hard_anim
 speed 0.06
 alive 1
 monster 1
