@@ -7,7 +7,7 @@ speed 0.06
 alive 1
 monster 1
 move_type walk
-sleep 1
+sleep 0
 Wis 15
 see_invisible 1
 no_pick 1
