@@ -6,7 +6,7 @@ animation guard_hard_anim
 speed 0.06
 alive 1
 monster 1
-random_movement 1
+direction 4
 move_type walk
 sleep 0
 Wis 15
