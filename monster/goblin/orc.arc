@@ -1,8 +1,9 @@
 Object orc
 randomitems orc
 race goblin
-face orc.111
+face orc_base_down_walking.151
 animation orc
+direction 4
 monster 1
 move_type walk
 sleep 1

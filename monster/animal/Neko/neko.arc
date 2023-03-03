@@ -1,6 +1,7 @@
 Object neko
 race animal
 face cat_down_walk.151
+direction 4
 animation neko
 monster 1
 move_type walk

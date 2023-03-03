@@ -4,6 +4,7 @@ randomitems goblin
 race goblin
 face goblin_leader_down_walking.151
 animation goblin_leader_arc
+direction 4
 monster 1
 move_type walk
 sleep 1

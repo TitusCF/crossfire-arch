@@ -3,6 +3,7 @@ Object goblin
 randomitems goblin
 race goblin
 face goblin_base_down_walking.151
+direction 4
 animation goblin
 monster 1
 move_type walk

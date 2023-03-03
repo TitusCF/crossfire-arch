@@ -3,6 +3,7 @@ other_arch mushman1
 name Mushroom Man
 race slime
 face mushguy_down_walk.151
+direction 4
 speed -0.08
 generator 1
 sp 129

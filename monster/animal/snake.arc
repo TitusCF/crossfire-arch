@@ -3,6 +3,7 @@ randomitems snake
 race reptile
 other_arch snake
 face snake_base_right_walking.131
+direction 4
 speed -0.1
 generator 1
 sp 134

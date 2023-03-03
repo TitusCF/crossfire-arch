@@ -1,6 +1,7 @@
 Object cobra
 name giant cobra
 face cobra_base_right_walking.131
+direction 4
 animation cobra
 race reptile
 speed -0.2

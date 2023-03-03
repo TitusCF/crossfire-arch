@@ -1,7 +1,8 @@
 Object kobold
-face kobold.111
+face kobold_base_down_walking.151
 race goblin
 animation kobold
+direction 4
 monster 1
 move_type walk
 sleep 1

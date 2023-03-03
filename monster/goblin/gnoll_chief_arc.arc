@@ -4,6 +4,7 @@ randomitems gnoll
 race goblin
 face gnoll_chief_down_walking.151
 animation gnoll_chief_arc
+direction 4
 monster 1
 move_type walk
 sleep 1

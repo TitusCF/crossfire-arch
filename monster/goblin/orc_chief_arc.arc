@@ -2,7 +2,8 @@ Object orc_chief_arc
 name orc chief
 randomitems orc
 race goblin
-face orc_chief.111
+face orc_chief_down_walking.151
+direction 4
 animation orc_chief_arc
 monster 1
 move_type walk

@@ -4,6 +4,7 @@ randomitems ogre
 race giant
 face ogre_leader.111
 animation ogre_leader_arc
+direction 4
 monster 1
 move_type walk
 sleep 1
