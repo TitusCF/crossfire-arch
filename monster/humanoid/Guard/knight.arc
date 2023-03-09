@@ -2,7 +2,7 @@ Object knight
 race human
 name Royal Guard
 face knight_walk_down.151
-animation knight_hard_anim
+animation knight
 speed 0.6
 alive 1
 monster 1
