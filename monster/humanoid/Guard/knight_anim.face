@@ -1,0 +1,35 @@
+animation knight_anim
+facings 8
+knight_walk_up.111
+knight_walk_up.112
+knight_walk_up.113
+knight_walk_up.114
+knight_walk_upright.121
+knight_walk_upright.122
+knight_walk_upright.123
+knight_walk_upright.124
+knight_walk_right.131
+knight_walk_right.132
+knight_walk_right.133
+knight_walk_right.134
+knight_walk_downright.141
+knight_walk_downright.142
+knight_walk_downright.143
+knight_walk_downright.144
+knight_walk_down.151
+knight_walk_down.152
+knight_walk_down.153
+knight_walk_down.154
+knight_walk_leftdown.161
+knight_walk_leftdown.162
+knight_walk_leftdown.163
+knight_walk_leftdown.164
+knight_walk_left.171
+knight_walk_left.172
+knight_walk_left.173
+knight_walk_left.174
+knight_walk_upleft.181
+knight_walk_upleft.182
+knight_walk_upleft.183
+knight_walk_upleft.184
+mina
