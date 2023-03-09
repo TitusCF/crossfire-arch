@@ -6,8 +6,9 @@ alive 1
 monster 1
 move_type walk
 no_pick 1
-face gnome.111
-animation gnome
+face gnome_down_walking.151
+direction 4
+animation gnome_mob
 ac 5
 reflect_spell 1
 wc 10
