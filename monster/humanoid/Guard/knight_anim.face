@@ -1,0 +1,36 @@
+animation knight_anim
+facings 8
+guard2_walk_up_1.111
+guard2_walk_up_2.112
+guard2_walk_up_3.113
+guard2_walk_up_4.114
+guard2_walk_upright_1.121
+guard2_walk_upright_2.122
+guard2_walk_upright_3.123
+guard2_walk_upright_4.124
+guard2_walk_right_1.131
+guard2_walk_right_2.132
+guard2_walk_right_3.133
+guard2_walk_right_4.134
+guard2_walk_downright_1.141
+guard2_walk_downright_2.142
+guard2_walk_downright_3.143
+guard2_walk_downright_4.144
+guard2_walk_down_1.151
+guard2_walk_down_2.152
+guard2_walk_down_3.153
+guard2_walk_down_4.154
+guard2_walk_leftdown_1.161
+guard2_walk_leftdown_2.162
+guard2_walk_leftdown_3.163
+guard2_walk_leftdown_4.164
+guard2_walk_left_1.171
+guard2_walk_left_2.172
+guard2_walk_left_3.173
+guard2_walk_left_4.174
+guard2_walk_upleft_1.181
+guard2_walk_upleft_2.182
+guard2_walk_upleft_3.183
+guard2_walk_upleft_4.184
+mina
+
