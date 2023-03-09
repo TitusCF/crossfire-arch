@@ -1,10 +1,10 @@
-Object knight
+Object newknight
 race human
 name Royal Guard
 face knight_walk_down.151
 direction 4
-speed 0.1
 animation knight_hard_anim
+speed 0.6
 alive 1
 monster 1
 move_type walk
