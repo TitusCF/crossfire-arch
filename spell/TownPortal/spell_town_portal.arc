@@ -3,6 +3,7 @@ anim_suffix spellcasting
 name town portal
 name_pl town portal
 face spell_town_portal.111
+anim_suffix magicwand
 type 101
 subtype 47
 level 15
