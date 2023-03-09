@@ -4,7 +4,7 @@ name Royal Guard
 face knight_walk_down.151
 direction 4
 speed 0.1
-animation knight_anim
+animation knight_hard_anim
 alive 1
 monster 1
 move_type walk
