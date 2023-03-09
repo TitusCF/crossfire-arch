@@ -1,4 +1,4 @@
-Object newknight
+Object knight
 race human
 name Royal Guard
 face knight_walk_down.151
