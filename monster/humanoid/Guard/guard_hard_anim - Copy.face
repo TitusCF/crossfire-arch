@@ -1,4 +1,4 @@
-animation knight_hard_anim
+animation guard2_hard_anim
 facings 8
 guard2_walk_up.111
 guard2_walk_up.112
@@ -20,10 +20,10 @@ guard2_walk_down.151
 guard2_walk_down.152
 guard2_walk_down.153
 guard2_walk_down.154
-guard2_walk_leftdown.161
-guard2_walk_leftdown.162
-guard2_walk_leftdown.163
-guard2_walk_leftdown.164
+guard2_walk_downleft.161
+guard2_walk_downleft.162
+guard2_walk_downleft.163
+guard2_walk_downleft.164
 guard2_walk_left.171
 guard2_walk_left.172
 guard2_walk_left.173
