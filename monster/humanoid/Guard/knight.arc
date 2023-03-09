@@ -32,3 +32,4 @@ weight 150000
 Str 25
 can_cast_spell 1
 end
+
