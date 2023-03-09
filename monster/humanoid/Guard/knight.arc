@@ -1,7 +1,7 @@
 Object knight
 race human
 name Royal Guard
-face guard2_walk_down_1.base.151
+face guard2_walk_down.base.151
 direction 4
 speed 0.1
 animation knight_anim
