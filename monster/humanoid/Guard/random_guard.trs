@@ -1,0 +1,10 @@
+treasureone random_guard
+  arch guardplat
+    chance 20
+  more
+  arch guardbasic
+    chance 20
+  more
+  arch guardblack
+    chance 20
+  end

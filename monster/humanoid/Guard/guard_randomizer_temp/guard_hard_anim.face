@@ -1,0 +1,36 @@
+animation guard_hard_anim
+facings 8
+guard_walk_up.111
+guard_walk_up.112
+guard_walk_up.113
+guard_walk_up.114
+guard_walk_upright.121
+guard_walk_upright.122
+guard_walk_upright.123
+guard_walk_upright.124
+guard_walk_right.131
+guard_walk_right.132
+guard_walk_right.133
+guard_walk_right.134
+guard_walk_downright.141
+guard_walk_downright.142
+guard_walk_downright.143
+guard_walk_downright.144
+guard_walk_down.151
+guard_walk_down.152
+guard_walk_down.153
+guard_walk_down.154
+guard_walk_downleft.161
+guard_walk_downleft.162
+guard_walk_downleft.163
+guard_walk_downleft.164
+guard_walk_left.171
+guard_walk_left.172
+guard_walk_left.173
+guard_walk_left.174
+guard_walk_upleft.181
+guard_walk_upleft.182
+guard_walk_upleft.183
+guard_walk_upleft.184
+mina
+

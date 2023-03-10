@@ -1,0 +1,36 @@
+animation guardplat_anim
+facings 8
+GuardPlat_walk_up.111
+GuardPlat_walk_up.112
+GuardPlat_walk_up.113
+GuardPlat_walk_up.114
+GuardPlat_walk_upright.121
+GuardPlat_walk_upright.122
+GuardPlat_walk_upright.123
+GuardPlat_walk_upright.124
+GuardPlat_walk_right.131
+GuardPlat_walk_right.132
+GuardPlat_walk_right.133
+GuardPlat_walk_right.134
+GuardPlat_walk_downright.141
+GuardPlat_walk_downright.142
+GuardPlat_walk_downright.143
+GuardPlat_walk_downright.144
+GuardPlat_walk_down.151
+GuardPlat_walk_down.152
+GuardPlat_walk_down.153
+GuardPlat_walk_down.154
+GuardPlat_walk_downleft.161
+GuardPlat_walk_downleft.162
+GuardPlat_walk_downleft.163
+GuardPlat_walk_downleft.164
+GuardPlat_walk_left.171
+GuardPlat_walk_left.172
+GuardPlat_walk_left.173
+GuardPlat_walk_left.174
+GuardPlat_walk_upleft.181
+GuardPlat_walk_upleft.182
+GuardPlat_walk_upleft.183
+GuardPlat_walk_upleft.184
+mina
+
