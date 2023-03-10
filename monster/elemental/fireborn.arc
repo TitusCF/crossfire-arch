@@ -2,7 +2,7 @@ Object fireborn
 name fireborn
 race fireborn
 randomitems fireborn
-face fireborn_walk_down.151
+face Fireborn_walk_down.151
 direction 4
 animation fireborn
 is_animated 1
