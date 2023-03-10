@@ -1,7 +1,7 @@
 Object fire_elemental
 name fire elemental
 race fire_elemental
-face Fireborn_walk_down.151
+face Fireborn_down_walking.151
 direction 4
 animation fireborn
 monster 1
