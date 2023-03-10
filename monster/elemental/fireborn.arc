@@ -4,7 +4,7 @@ race fireborn
 randomitems fireborn
 face Fireborn_down_walking.151
 direction 4
-animation fireborn
+animation fireborn_anim
 is_animated 1
 hp 50
 maxhp 50

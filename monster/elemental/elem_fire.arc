@@ -3,7 +3,7 @@ name fire elemental
 race fire_elemental
 face Fireborn_down_walking.151
 direction 4
-animation fireborn
+animation fireborn_anim
 monster 1
 move_type walk fly_low
 alive 1
