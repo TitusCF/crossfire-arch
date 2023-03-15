@@ -460,9 +460,6 @@ treasureone random_special
   arch flint_and_steel
     chance 5
   more
-  arch sawhorse
-    chance 5
-  more
   arch miningpick
     chance 10
   more
