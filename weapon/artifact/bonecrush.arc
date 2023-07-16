@@ -1,7 +1,7 @@
 Object bonecrusher
 name Bonecrusher
 nrof 1
-anim_suffix hammer
+anim_suffix maul
 slaying skeleton
 face bonecrush.111
 type 15
