@@ -1,4 +1,4 @@
-Object scornian_dagger_1
+Object scorn_dagger_1
 name Fine Scornian Dagger
 nrof 1
 last_sp 5
@@ -19,7 +19,7 @@ body_arm -1
 skill one handed weapons
 end
 
-Object scornian_dagger_2
+Object scorni_dagger_2
 name Scornian Dagger
 title of Lifesave
 nrof 1
