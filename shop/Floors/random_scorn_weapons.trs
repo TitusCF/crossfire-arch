@@ -1,0 +1,111 @@
+treasureone random_scorn_weapon
+  arch scorn_shortsword_1
+    magic 3
+    chance 5
+  more
+  arch scorn_shortsword_2
+    magic 3
+    chance 5
+  more
+  arch scorn_shortsword_3
+    magic 3
+    chance 5
+  more
+  arch scorn_shortsword_4
+    magic 3
+    chance 5
+  more
+  arch scorn_shortsword_5
+    magic 3
+    chance 5
+  more
+  arch scorn_shortsword_6
+    magic 3
+    chance 5
+  more
+  arch scorn_sword_1
+     magic 3
+    chance 10
+  more
+  arch scorn_sword_2
+    magic 3
+    chance 10
+  more
+  arch scorn_sword_3
+    magic 3
+    chance 10
+  more
+  arch scorn_sword_4
+    magic 3
+    chance 10
+  more
+  arch scorn_sword_5
+    magic 3
+    chance 10
+  more
+  arch scorn_sword_6
+    magic 3
+    chance 10
+  more
+  arch scorn_sword_7
+    magic 3
+    chance 10
+  more
+  arch scorn_axe_1
+    magic 3
+    chance 10
+  more
+  arch scorn_axe_2
+    magic 3
+    chance 10
+  more
+  arch scorn_mace_1
+    magic 3
+    chance 10
+  more
+  arch scorn_mace_2
+    magic 3
+    chance 10
+  more
+  arch scorn_mace_3
+    magic 3
+    chance 10
+  more
+  arch scorn_dagger_1
+    magic 3
+    chance 10
+  more
+  arch scorn_dagger_2
+    magic 3
+    chance 10
+  more
+  arch scorn_hammer_1
+    magic 3
+    chance 10
+  more
+  arch scorn_hammer_2
+    magic 3
+    chance 10
+  more
+  arch scorn_hammer_3
+    magic 3
+    chance 10
+  more
+  arch scorn_b_axe1
+    magic 3
+    chance 10
+  more
+  arch scorn_b_axe2
+    magic 3
+    chance 10
+  more
+  arch scorn_b_axe3
+    magic 3
+    chance 10
+  more
+  arch scorn_b_axe4
+    magic 3
+    chance 10
+end
+
+
