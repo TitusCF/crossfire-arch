@@ -1,6 +1,6 @@
 Object recall_bench
 name Set thee down
-type 111
+type 5
 face bench_0.111
 weight 1000000000
 value 0
