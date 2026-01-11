@@ -19,7 +19,7 @@ body_arm -1
 skill one handed weapons
 end
 
-Object scorni_dagger_2
+Object scorn_dagger_2
 name Scornian Dagger
 title of Lifesave
 nrof 1
