@@ -4,7 +4,7 @@ race throwing
 msg 
   This Wolfburgian whaling spear bears the mark of its maker.
   It has a simple tip and feels good to throw.
-  endmsg
+endmsg
 nrof 1
 last_sp 9
 type 15
@@ -32,7 +32,7 @@ race throwing
 msg 
   This Wolfburgian whaling spear bears the mark of its maker.
   It has a tip that has been sharpened to a fine edge, don't cut yourself!
-  endmsg
+endmsg
 nrof 1
 last_sp 9
 type 15
@@ -60,7 +60,7 @@ race throwing
 msg 
   This Wolfburgian whaling spear bears the mark of its maker.
   Its handle has been wrapped with leather and the tip is barbed.
-  endmsg
+endmsg
 nrof 1
 last_sp 9
 type 15
@@ -89,7 +89,7 @@ race throwing
 msg 
   This Wolfburgian whaling spear bears the mark of its maker.
   It has a tip that has been sharpened to a fine edge, don't cut yourself!
-  endmsg
+endmsg
 nrof 1
 last_sp 9
 type 15
@@ -117,7 +117,7 @@ race throwing
 msg 
   This Wolfburgian whaling spear bears the mark of its maker.
   This is the same spear you see being carried by the Wolfburgian Guard.
-  endmsg
+endmsg
 nrof 1
 last_sp 9
 type 15
@@ -146,7 +146,7 @@ nrof 1
 msg 
   This Wolfburgian hunting spear bears the mark of its maker.
   Its handle has been wrapped with leather and the tips are barbed.
-  endmsg
+endmsg
 type 15
 face twinblade_spear.111
 material 18
@@ -173,7 +173,7 @@ nrof 1
 msg 
   This Wolfburgian hunting spear bears the mark of its maker.
   It looks angry and ready to kill.
-  endmsg
+endmsg
 type 15
 face twinblade_spear.111
 material 18
