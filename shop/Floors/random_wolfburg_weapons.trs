@@ -1,0 +1,32 @@
+treasureone random_wolfburg_weapon
+  arch wolfburg_spear_1
+    magic 3
+    chance 5
+  more
+  arch wolfburg_spear_2
+    magic 3
+    chance 5
+  more
+  arch wolfburg_spear_3
+    magic 3
+    chance 5
+  more
+  arch wolfburg_spear_4
+    magic 3
+    chance 5
+  more
+  arch wolfburg_spear_5
+    magic 3
+    chance 5
+  more
+  arch wolfburg_twinblade_spear_1
+    magic 3
+    chance 5
+  more
+  arch wolfburg_twinblade_spear_2
+    magic 3
+    chance 5
+  more
+end
+
+
