@@ -1,14 +1,14 @@
 Object mountain_5
-name high mountain
+name Ancient Rock
 randomitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
 type 20
-move_block walk swim boat
+move_block all
 msg
-These mountains are very tall. Maybe you can fly over them.
-(note: you can mine these mountains using a mining pick)
+ These ancient monoliths of stone seem to hold up the city above.
+(note: you can mine this using a mining pick)
 endmsg
 move_slow walk
 move_slow_penalty 20
@@ -18,16 +18,16 @@ is_floor 1
 end
 More
 Object mountain_5_2
-name high mountain
+name Ancient Rock
 randomitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
 type 20
-move_block walk swim boat
+move_block all
 msg
-These mountains are very tall. Maybe you can fly over them.
-(note: you can mine these mountains using a mining pick)
+ These ancient monoliths of stone seem to hold up the city above.
+(note: you can mine this using a mining pick)
 endmsg
 x 1
 move_slow walk
@@ -38,16 +38,16 @@ is_floor 1
 end
 More
 Object mountain_5_3
-name high mountain
+name Ancient Rock
 randomitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
 type 20
-move_block walk swim boat
+move_block all
 msg
-These mountains are very tall. Maybe you can fly over them.
-(note: you can mine these mountains using a mining pick)
+ These ancient monoliths of stone seem to hold up the city above.
+(note: you can mine this using a mining pick)
 endmsg
 y 1
 move_slow walk
@@ -58,16 +58,16 @@ is_floor 1
 end
 More
 Object mountain_5_4
-name high mountain
+name Ancient Rock
 randomitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
 type 20
-move_block walk swim boat
+move_block all
 msg
-These mountains are very tall. Maybe you can fly over them.
-(note: you can mine these mountains using a mining pick)
+ These ancient monoliths of stone seem to hold up the city above.
+(note: you can mine this using a mining pick)
 endmsg
 x 1
 y 1
