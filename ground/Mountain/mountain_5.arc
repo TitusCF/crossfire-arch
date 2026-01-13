@@ -1,6 +1,6 @@
-Object mountain_2
+Object mountain_5
 name high mountain
-randomitems mountain
+randomitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
@@ -17,9 +17,9 @@ blocksview 1
 is_floor 1
 end
 More
-Object mountain_2_2
+Object mountain_5_2
 name high mountain
-randomitems mountain
+randomitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
@@ -37,9 +37,9 @@ blocksview 1
 is_floor 1
 end
 More
-Object mountain_2_3
+Object mountain_5_3
 name high mountain
-randomitems mountain
+randomitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
@@ -57,9 +57,9 @@ blocksview 1
 is_floor 1
 end
 More
-Object mountain_2_4
+Object mountain_5_4
 name high mountain
-randomitems mountain
+randomitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
