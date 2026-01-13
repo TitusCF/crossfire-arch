@@ -1,6 +1,10 @@
 Object ruby
 face ruby.111
-race gold and jewels
+harvest_race shop_gems
+harvest_tool pickaxe
+harvestable -1
+harvest_level 1
+harvest_exp 60
 type 60
 animation ruby
 nrof 1

@@ -1,0 +1,23 @@
+treasureone shop_tools
+  arch fishing_pole
+    chance 5
+    nrof 1
+  more
+   arch gardenhoe
+    chance 5
+    nrof 1
+  more
+   arch miningpick
+    chance 5
+    nrof 1
+  more
+   arch shovel_1
+    chance 5
+    nrof 1
+  more
+   arch woodcuttingaxe
+    chance 5
+    nrof 1
+  more
+  end
+

@@ -2220,10 +2220,6 @@ treasureone random_alchemy
     chance 12
     nrof 5
   more
-  list shop_gems
-    chance 3
-    magic 5
-  more
   arch phil_sulphur
     chance 4
     nrof 3
@@ -3237,7 +3233,7 @@ treasure deep_mountain
   arch mountain_rubble
   nrof 2
   more
-  arch dragon_tooth
+  arch dragon_teeth
   end
 treasure desert
   arch sandpile

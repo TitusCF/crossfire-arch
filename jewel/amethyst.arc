@@ -1,6 +1,10 @@
 Object amethyst
 name amethyst
-race gold and jewels
+harvest_race shop_gems
+harvest_tool pickaxe
+harvestable -1
+harvest_level 1
+harvest_exp 60
 type 60
 face amethyst.111
 animation amethyst
