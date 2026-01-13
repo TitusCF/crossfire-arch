@@ -1,5 +1,5 @@
 treasureone shop_tools
-  arch fishing_pole
+   arch fishing_pole
     chance 5
     nrof 1
   more

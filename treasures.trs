@@ -3233,7 +3233,7 @@ treasure deep_mountain
   arch mountain_rubble
   nrof 2
   more
-  arch dragon_teeth
+  arch dragon_tooth
   end
 treasure desert
   arch sandpile
