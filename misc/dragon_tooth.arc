@@ -11,7 +11,7 @@ weight 7000
 value 0
 material 16
 nrof 1
-name_pl bones
+name_pl teeth
 client_type 8002
 skill one handed weapons
 body_arm -1
