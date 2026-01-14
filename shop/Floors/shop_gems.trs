@@ -1,70 +1,70 @@
 treasureone shop_gems
   arch gem
     chance 1
-    nrof 1
+  nrof 1
   more
   arch gem
     chance 1
-    nrof 2
+  nrof 2
   more
   arch gem
     chance 1
-    nrof 3
+  nrof 3
   more
   arch pearl
     chance 1
-    nrof 1
+  nrof 1
   more
   arch pearl
     chance 1
-    nrof 2
+  nrof 2
   more
   arch pearl
     chance 1
-    nrof 3
+  nrof 3
   more
   arch ruby
     chance 1
-    nrof 1
+  nrof 1
   more
   arch ruby
     chance 1
-    nrof 2
+  nrof 2
   more
   arch ruby
     chance 1
-    nrof 3
+  nrof 3
   more
   arch sapphire
     chance 1
-    nrof 1
+  nrof 1
   more
   arch sapphire
     chance 1
-    nrof 2
+  nrof 2
   more
   arch sapphire
     chance 1
-    nrof 3
+  nrof 3
   more
   arch emerald
     chance 1
-    nrof 1
+  nrof 1
   more
   arch emerald
     chance 1
-    nrof 2
+  nrof 2
   more
   arch emerald
     chance 1
-    nrof 3
+  nrof 3
     more
   arch amethyst
     chance 1
-    nrof 1
+  nrof 1
   more
   arch amethyst
     chance 1
-    nrof 2
+  nrof 2
   end
 
