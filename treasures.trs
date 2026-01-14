@@ -3024,6 +3024,75 @@ treasureone random_stone
     chance 15
     nrof 5
   end
+treasureone random_mininggems
+  arch gem
+    chance 10
+  nrof 1
+  more
+  arch gem
+    chance 10
+  nrof 2
+  more
+  arch gem
+    chance 10
+  nrof 3
+  more
+  arch pearl
+    chance 10
+  nrof 1
+  more
+  arch pearl
+    chance 10
+  nrof 2
+  more
+  arch pearl
+    chance 10
+  nrof 3
+  more
+  arch ruby
+    chance 10
+  nrof 1
+  more
+  arch ruby
+    chance 10
+  nrof 2
+  more
+  arch ruby
+    chance 10
+  nrof 3
+  more
+  arch sapphire
+    chance 10
+  nrof 1
+  more
+  arch sapphire
+    chance 10
+  nrof 2
+  more
+  arch sapphire
+    chance 10
+  nrof 3
+  more
+  arch emerald
+    chance 10
+  nrof 1
+  more
+  arch emerald
+    chance 10
+  nrof 2
+  more
+  arch emerald
+    chance 10
+  nrof 3
+    more
+  arch amethyst
+    chance 10
+  nrof 1
+  more
+  arch amethyst
+    chance 10
+  nrof 2
+  end
 treasureone random_inorganic
   list random_minerals
     chance 35

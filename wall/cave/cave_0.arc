@@ -1,6 +1,6 @@
 Object cave_0
 name wall
-randomitems shop_gems
+randomitems random_mininggems
 harvest_exhaust_replacement blackrock
 type 20
 face cave_0.111
