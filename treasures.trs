@@ -3025,71 +3025,71 @@ treasureone random_stone
     nrof 5
   end
 treasureone random_mininggems
-  arch gem
+  arch mined_gem
     chance 10
   nrof 1
   more
-  arch gem
+  arch mined_gem
     chance 10
   nrof 2
   more
-  arch gem
+  arch mined_gem
     chance 10
   nrof 3
   more
-  arch pearl
+  arch mined_pearl
     chance 10
   nrof 1
   more
-  arch pearl
+  arch mined_pearl
     chance 10
   nrof 2
   more
-  arch pearl
+  arch mined_pearl
     chance 10
   nrof 3
   more
-  arch ruby
+  arch mined_ruby
     chance 10
   nrof 1
   more
-  arch ruby
+  arch mined_ruby
     chance 10
   nrof 2
   more
-  arch ruby
+  arch mined_ruby
     chance 10
   nrof 3
   more
-  arch sapphire
+  arch mined_sapphire
     chance 10
   nrof 1
   more
-  arch sapphire
+  arch mined_sapphire
     chance 10
   nrof 2
   more
-  arch sapphire
+  arch mined_sapphire
     chance 10
   nrof 3
   more
-  arch emerald
+  arch mined_emerald
     chance 10
   nrof 1
   more
-  arch emerald
+  arch mined_emerald
     chance 10
   nrof 2
   more
-  arch emerald
+  arch mined_emerald
     chance 10
   nrof 3
     more
-  arch amethyst
+  arch mined_amethyst
     chance 10
   nrof 1
   more
-  arch amethyst
+  arch mined_amethyst
     chance 10
   nrof 2
   end

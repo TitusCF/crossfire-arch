@@ -1,5 +1,6 @@
-Object gem
-name diamond
+Object mined_sapphire
+face sapphire.111
+name sapphire
 harvest_race random_mininggem
 harvest_tool pickaxe
 harvestable -1
@@ -11,6 +12,6 @@ resist_acid 100
 type 73
 weight 800
 nrof 1
-name_pl diamonds
+name_pl sapphires
 client_type 641
 end
