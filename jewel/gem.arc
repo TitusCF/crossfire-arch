@@ -1,6 +1,8 @@
 Object gem
 name diamond
-harvest_race shop_gems
+harvest_race random_mininggems
+harvest_exhaust_replacement blackrock
+type 20
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1
