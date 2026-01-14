@@ -1,7 +1,7 @@
 Object mined_pearl
 name pearl
 face pearl.111
-harvest_race random_mininggem
+harvest_race random_mininggems
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1

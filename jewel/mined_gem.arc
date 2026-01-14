@@ -1,6 +1,6 @@
 Object mined_gem
 name diamond
-harvest_race random_mininggem
+harvest_race random_mininggems
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1
