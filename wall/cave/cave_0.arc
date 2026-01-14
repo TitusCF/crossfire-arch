@@ -1,9 +1,18 @@
 Object cave_0
-name wall
-face cave_0.111
-no_pick 1
-type 20
-move_block all
-randomitems random_stone
+name high mountains
+face mountain4.111
+randomitems random_mininggems
 harvest_exhaust_replacement blackrock
+type 20
+race /terrain/mountain
+no_pick 1
+move_block walk swim boat
+msg
+These mountains are very tall. Maybe you can fly over them.
+(note: you can mine these mountains using a mining pick)
+endmsg
+blocksview 1
+smoothlevel 100
+is_floor 1
+smoothface mountain4.111 mountain_S.111
 end
