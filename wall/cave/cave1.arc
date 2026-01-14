@@ -1,5 +1,7 @@
 Object cave1
 name wall
+randomitems shop_gems
+harvest_exhaust_replacement blackrock
 face cave1.111
 blocksview 1
 no_pick 1
