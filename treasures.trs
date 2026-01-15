@@ -2958,71 +2958,71 @@ treasureone random_stone
   end
 treasureone random_mgems
   arch mined_gem
-    chance 10
+    chance 100
   nrof 1
   more
   arch mined_gem
-    chance 10
+    chance 100
   nrof 2
   more
   arch mined_gem
-    chance 10
+    chance 100
   nrof 3
   more
   arch mined_pearl
-    chance 10
+    chance 100
   nrof 1
   more
   arch mined_pearl
-    chance 10
+    chance 100
   nrof 2
   more
   arch mined_pearl
-    chance 10
+    chance 100
   nrof 3
   more
   arch mined_ruby
-    chance 10
+    chance 100
   nrof 1
   more
   arch mined_ruby
-    chance 10
+    chance 100
   nrof 2
   more
   arch mined_ruby
-    chance 10
+    chance 100
   nrof 3
   more
   arch mined_sapphire
-    chance 10
+    chance 100
   nrof 1
   more
   arch mined_sapphire
-    chance 10
+    chance 100
   nrof 2
   more
   arch mined_sapphire
-    chance 10
+    chance 100
   nrof 3
   more
   arch mined_emerald
-    chance 10
+    chance 100
   nrof 1
   more
   arch mined_emerald
-    chance 10
+    chance 100
   nrof 2
   more
   arch mined_emerald
-    chance 10
+    chance 100
   nrof 3
     more
   arch mined_amethyst
-    chance 10
+    chance 100
   nrof 1
   more
   arch mined_amethyst
-    chance 10
+    chance 100
   nrof 2
   end
 treasureone random_inorganic
