@@ -13,7 +13,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_a
 name earth
 face earth.111
@@ -29,7 +28,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_b
 name earth
 face earth.111
@@ -45,7 +43,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_c
 name earth
 face earth.111
@@ -60,7 +57,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_d
 name earth
 face earth.111
@@ -76,7 +72,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_e
 name earth
 face earth.111
@@ -92,7 +87,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_f
 name earth
 face earth.111
@@ -108,7 +102,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_g
 name earth
 face earth.111
@@ -123,8 +116,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
-
 Object earth_h
 name earth
 face earth.111
@@ -140,7 +131,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_i
 name earth
 face earth.111
@@ -156,7 +146,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_k
 name earth
 face earth.111
@@ -171,7 +160,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_l
 name earth
 face earth.111
@@ -187,7 +175,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_m
 name earth
 face earth.111
@@ -203,7 +190,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_n
 name earth
 face earth.111
@@ -219,7 +205,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_o
 name earth
 face earth.111
@@ -234,7 +219,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_p
 name earth
 face earth.111
@@ -250,7 +234,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_q
 name earth
 face earth.111
@@ -265,7 +248,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_r
 name earth
 face earth.111
@@ -281,7 +263,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_s
 name earth
 face earth.111
@@ -297,7 +278,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_t
 name earth
 face earth.111
@@ -313,7 +293,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_u
 name earth
 face earth.111
@@ -328,8 +307,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
-
 Object earth_v
 name earth
 face earth.111
@@ -345,7 +322,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_w
 name earth
 face earth.111
@@ -361,7 +337,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_x
 name earth
 face earth.111
@@ -376,7 +351,6 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
 Object earth_y
 name earth
 face earth.111
@@ -392,4 +366,3 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
-
