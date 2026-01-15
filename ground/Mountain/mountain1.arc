@@ -26,7 +26,7 @@ move_slow walk
 move_slow_penalty 5
 smoothlevel 100
 is_floor 1
-smoothface mountain1.111 mountain_S.111
+smoothface mountain_a.111 mountain_S.111
 end
 
 Object mountain_b
@@ -48,7 +48,7 @@ move_slow walk
 move_slow_penalty 5
 smoothlevel 100
 is_floor 1
-smoothface mountain1.111 mountain_S.111
+smoothface mountain_b.111 mountain_S.111
 end
 
 Object mountain_c
@@ -70,7 +70,7 @@ move_slow walk
 move_slow_penalty 5
 smoothlevel 100
 is_floor 1
-smoothface mountain1.111 mountain_S.111
+smoothface mountain_c.111 mountain_S.111
 end
 
 Object mountain_d
@@ -92,5 +92,5 @@ move_slow walk
 move_slow_penalty 5
 smoothlevel 100
 is_floor 1
-smoothface mountain1.111 mountain_S.111
+smoothface mountain_d.111 mountain_S.111
 end
