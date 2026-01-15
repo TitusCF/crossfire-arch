@@ -1,6 +1,6 @@
 Object cave_0
 name wall
-randomitems random_mgems
+randomitems mountain
 harvest_exhaust_replacement earth
 type 67
 face cave_0.111
