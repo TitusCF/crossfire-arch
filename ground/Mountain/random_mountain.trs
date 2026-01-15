@@ -1,0 +1,12 @@
+treasureone random_mountain
+ arch mountain_a
+  chance 2
+ more
+ arch mountain_b
+  chance 1
+ more
+ arch mountain_c
+  chance 3
+ arch mountain_d
+  chance 3
+end
