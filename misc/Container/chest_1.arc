@@ -14,7 +14,7 @@ client_type 51
 end
 Object mountain_rubble
 face rubble1.111
-harvest_race random_gem_new
+harvest_race moutain
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1
@@ -26,7 +26,7 @@ material 18
 value 50
 weight 50000
 identified 1
-randomitems random_inorganic
+randomitems random_mgems
 name rubble
 name_pl rubble
 client_type 51
