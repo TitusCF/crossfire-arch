@@ -14,7 +14,7 @@ client_type 51
 end
 Object mountain_rubble
 face rubble1.111
-harvest_race random_mgems
+harvest_race random_gem_new
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1
