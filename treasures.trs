@@ -3217,6 +3217,10 @@ treasure tree
   arch logs
   nrof 2
   end
+treasure mountain
+  arch mountain_rubble
+  nrof 2
+  end
 treasure cave_walls
   arch mountain_rubble
   nrof 2
