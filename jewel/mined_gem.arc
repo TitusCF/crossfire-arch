@@ -2,7 +2,7 @@ Object mined_gem
 name diamond
 harvest_race random_mgems
 harvest_tool pickaxe
-harvestable -1
+harvestable 1
 harvest_level 1
 harvest_exp 100
 material 64

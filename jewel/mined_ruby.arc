@@ -3,7 +3,7 @@ name ruby
 face ruby.111
 harvest_race random_mgems
 harvest_tool pickaxe
-harvestable -1
+harvestable 1
 harvest_level 1
 harvest_exp 100
 material 64
