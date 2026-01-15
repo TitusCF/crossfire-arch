@@ -2958,11 +2958,11 @@ treasureone random_stone
   end
 treasureone random_mgems
   arch mined_gem
-    chance 100
+    chance 8
   nrof 1
   more
   arch mined_gem
-    chance 100
+    chance 8
   nrof 2
   more
   arch mined_gem
@@ -3125,7 +3125,7 @@ treasureone random_ore
     chance 15
   more
   arch uraniumore
-    chance 25
+    chance 0
   more
   arch silverore
     chance 9

@@ -2,7 +2,7 @@ Object smallnugget
 name small gold nugget
 race gold and jewels
 face nugget_sma.111
-harvest_race random_mineral
+harvest_race smallnugget
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1

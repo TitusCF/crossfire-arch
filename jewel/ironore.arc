@@ -3,6 +3,11 @@ name iron ore
 name_pl iron ores
 race gold and jewels
 face ore_r.111
+harvest_race ironore
+harvest_tool pickaxe
+harvestable -1
+harvest_level 1
+harvest_exp 0
 nrof 1
 type 73
 material 64

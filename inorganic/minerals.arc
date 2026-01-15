@@ -30,7 +30,7 @@ Object sulphur
 name pile
 title of sulphur
 face sulphur.111
-harvest_race random_mineral
+harvest_race sulphur
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1
@@ -68,7 +68,7 @@ Object phosphorus
 name pile
 title of phosphorus
 face phosphor.111
-harvest_race random_mineral
+harvest_race phosphorus
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1
@@ -90,7 +90,7 @@ Object cinnabar
 name pile
 title of cinnabar
 face cinna.111
-harvest_race random_mineral
+harvest_race cinnabar
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1
@@ -109,7 +109,7 @@ Object pyrite
 name pile
 title of pyrite
 face pyrite.111
-harvest_race random_mineral
+harvest_race pyrite
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1
@@ -128,7 +128,7 @@ Object gypsum
 name pile
 title of gypsum
 face gypsum.111
-harvest_race random_mineral
+harvest_race gypsum
 harvest_tool pickaxe
 harvestable -1
 harvest_level 1

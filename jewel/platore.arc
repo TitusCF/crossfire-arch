@@ -4,6 +4,11 @@ name_pl platinum ores
 race gold and jewels
 face ore_b.111
 nrof 1
+harvest_race platore
+harvest_tool pickaxe
+harvestable -1
+harvest_level 1
+harvest_exp 0
 type 73
 material 64
 materialname rock

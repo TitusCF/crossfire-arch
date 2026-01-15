@@ -3,6 +3,11 @@ name zinc ore
 name_pl zinc ores
 race gold and jewels
 face ore_b.111
+harvest_race zincore
+harvest_tool pickaxe
+harvestable -1
+harvest_level 1
+harvest_exp 0
 nrof 1
 type 73
 material 64
