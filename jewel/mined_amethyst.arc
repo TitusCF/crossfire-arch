@@ -1,8 +1,8 @@
 Object mined_amethyst
 name amethyst
-harvest_race random_mininggems
+harvest_race random_mgems
 harvest_tool pickaxe
-harvestable -1
+harvestable 1
 harvest_level 1
 harvest_exp 100
 material 64

@@ -2956,7 +2956,7 @@ treasureone random_stone
     chance 15
     nrof 5
   end
-treasureone random_mininggems
+treasureone random_mgems
   arch mined_gem
     chance 10
   nrof 1
