@@ -16,7 +16,7 @@ Object mountain_rubble
 face rubble1.111
 harvest_race mountain
 harvest_tool pickaxe
-harvestable 1
+harvestable -1
 harvest_level 1
 harvest_exp 100
 nrof 1
