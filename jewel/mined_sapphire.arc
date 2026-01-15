@@ -1,13 +1,13 @@
 Object mined_sapphire
 face sapphire.111
 name sapphire
-harvest_race random_mgems
+harvest_race mined_sapphire
 harvest_tool pickaxe
-harvestable 1
+harvestable -1
 harvest_level 1
 harvest_exp 100
 material 64
-value 1
+value 200
 resist_acid 100
 type 73
 weight 800

@@ -1,13 +1,13 @@
 Object mined_emerald
 name emerald
 face emerald.111
-harvest_race random_mgems
+harvest_race mined_emerald
 harvest_tool pickaxe
-harvestable 1
+harvestable -1
 harvest_level 1
 harvest_exp 100
 material 64
-value 1
+value 300
 resist_acid 100
 type 73
 weight 800
