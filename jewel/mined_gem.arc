@@ -2,6 +2,7 @@ Object mined_gem
 name diamond
 harvest_race mined_gem
 harvest_tool pickaxe
+face gem.111
 harvestable -1
 harvest_level 1
 harvest_exp 100

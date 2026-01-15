@@ -1,7 +1,11 @@
 Object cave14
 name wall
-randomitems shop_gems
-harvest_exhaust_replacement blackrock
+randomitems mountain
+harvest_exhaust_replacement earth
+msg
+  OUCH! Were you expecting a secret door?
+ You think you see a faint glimmer in the rock...
+endmsg
 face cave14.111
 blocksview 1
 no_pick 1

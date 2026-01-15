@@ -1,7 +1,7 @@
 Object mountain
 name mountains
 face mountain1.111
-randomitems mountain
+randomitems random_inorganic
 harvest_exhaust_replacement blackrock
 type 20
 race /terrain/mountain

@@ -2,6 +2,7 @@ Object mined_amethyst
 name amethyst
 harvest_race mined_amethyst
 harvest_tool pickaxe
+face amethyst.111
 harvestable -1
 harvest_level 1
 harvest_exp 100

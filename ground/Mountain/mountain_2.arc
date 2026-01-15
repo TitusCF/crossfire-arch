@@ -1,6 +1,6 @@
 Object mountain_2
 name high mountain
-randomitems mountain
+randomitems random_inorganic
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1

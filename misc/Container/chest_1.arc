@@ -23,6 +23,9 @@ nrof 0
 type 4
 hp 1
 material 18
+msg
+  This pile of rubble may yet hide some jewels in the rough.
+endmsg
 value 50
 weight 50000
 identified 1
