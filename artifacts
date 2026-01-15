@@ -2724,6 +2724,11 @@ end
 Allowed diamond
 chance 60
 Object great value
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face pretty_crystal.111
 stand_still 1
 value 10
@@ -2735,6 +2740,11 @@ Allowed diamond
 chance 20
 difficulty 3
 Object exceptional beauty
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face diamond_exceptional.111
 value 100
 stand_still 1
@@ -2747,6 +2757,11 @@ Allowed diamond
 chance 5
 difficulty 5
 Object flawless beauty
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face diamond_flawless.111
 value 1000
 stand_still 1
@@ -2758,6 +2773,11 @@ end
 Allowed ruby
 chance 60
 Object great value
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face pretty_ruby.111
 stand_still 1
 value 10
@@ -2769,6 +2789,11 @@ Allowed ruby
 chance 20
 difficulty 3
 Object exceptional beauty
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face ruby_exceptional.111
 value 100
 stand_still 1
@@ -2781,6 +2806,11 @@ Allowed ruby
 chance 5
 difficulty 5
 Object flawless beauty
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face ruby_flawless.111
 value 1000
 stand_still 1
@@ -2792,6 +2822,11 @@ end
 Allowed sapphire
 chance 60
 Object great value
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face pretty_sapphire.111
 stand_still 1
 value 10
@@ -2803,6 +2838,11 @@ Allowed sapphire
 chance 20
 difficulty 3
 Object exceptional beauty
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face sapphire_exceptional.111
 value 100
 stand_still 1
@@ -2815,6 +2855,11 @@ Allowed sapphire
 chance 5
 difficulty 5
 Object flawless beauty
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face sapphire_flawless.111
 value 1000
 stand_still 1
@@ -2826,6 +2871,11 @@ end
 Allowed emerald
 chance 60
 Object great value
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face pretty_emerald.111
 stand_still 1
 value 10
@@ -2837,6 +2887,11 @@ Allowed emerald
 chance 20
 difficulty 3
 Object exceptional beauty
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face emerald_exceptional.111
 value 100
 stand_still 1
@@ -2849,6 +2904,11 @@ Allowed emerald
 chance 5
 difficulty 5
 Object flawless beauty
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face emerald_flawless.111
 value 1000
 stand_still 1
@@ -2860,6 +2920,11 @@ end
 Allowed amethyst
 chance 60
 Object great value
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face pretty_amethyst.111
 stand_still 1
 value 10
@@ -2871,6 +2936,11 @@ Allowed amethyst
 chance 20
 difficulty 3
 Object exceptional beauty
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face amethyst_exceptional.111
 value 100
 stand_still 1
@@ -2883,6 +2953,11 @@ Allowed amethyst
 chance 5
 difficulty 5
 Object flawless beauty
+harvest_race random_mgems
+harvest_tool pickaxe
+harvestable 1
+harvest_level 1
+harvest_exp 100
 face amethyst_flawless.111
 value 1000
 stand_still 1
