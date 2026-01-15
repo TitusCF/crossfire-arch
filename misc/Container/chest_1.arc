@@ -26,7 +26,7 @@ material 18
 value 50
 weight 50000
 identified 1
-randomitems random_mgems
+randomitems random_gem_new
 name rubble
 name_pl rubble
 client_type 51
