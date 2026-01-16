@@ -1,42 +1,32 @@
 treasureone random_aldwulf_weapon
   arch troll_club_1
-    magic 3
     chance 5
   more
   arch troll_club_2
-    magic 3
     chance 5
   more
   arch troll_club_3
-    magic 3
     chance 5
   more
   arch troll_bigclub_1
-    magic 3
     chance 5
   more
   arch troll_bigclub_2
-    magic 3
     chance 5
   more
   arch troll_stonebig_club_1
-    magic 3
     chance 5
   more
   arch troll_stoneaxe_1
-    magic 3
     chance 5
   more
   arch troll_stoneaxe_2
-    magic 3
     chance 5
   more
   arch troll_stoneaxe_3
-    magic 3
     chance 5
   more
    arch troll_stonehammer_1
-    magic 3
     chance 5
  end
 

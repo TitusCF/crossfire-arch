@@ -177,7 +177,6 @@ body_arm -1
 skill one handed weapons
 end
 
-
 Object troll_stoneaxe_3
 name Bug Hunters Stone Handaxe
 nrof 1
