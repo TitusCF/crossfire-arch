@@ -6,5 +6,7 @@ treasure gnoll
     chance 30
   more
   list poor_old
+  more
+  list random_aldwulf_weapons
   end
 

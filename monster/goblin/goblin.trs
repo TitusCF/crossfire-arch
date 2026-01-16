@@ -4,7 +4,7 @@ treasure goblin
   list goblin_parts
     chance 10
   more
-  list poor_old
+  list random_aldwulf_weapons
   end
 treasureone goblin_parts
   arch fl_corpse
