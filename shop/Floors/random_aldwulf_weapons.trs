@@ -1,33 +1,95 @@
 treasureone random_aldwulf_weapons
   arch troll_club_1
-    chance 5
+    chance 1
   more
   arch troll_club_2
-    chance 5
+    chance 1
   more
   arch troll_club_3
-    chance 5
+    chance 1
   more
   arch troll_bigclub_1
-    chance 5
+    chance 1
   more
   arch troll_bigclub_2
-    chance 5
+    chance 1
   more
   arch troll_stonebig_club_1
-    chance 5
+    chance 1
   more
   arch troll_stoneaxe_1
-    chance 5
+    chance 1
   more
   arch troll_stoneaxe_2
-    chance 5
+    chance 1
   more
   arch troll_stoneaxe_3
-    chance 5
+    chance 1
   more
-   arch troll_stonehammer_1
-    chance 5
- end
-
+  arch troll_stonehammer_1
+    chance 1
+  more
+  arch aldwulf_boneclub_1
+    chance 1
+  more
+  arch aldwulf_boneclub_2
+    chance 1
+  more
+  arch aldwulf_flintaxe_1
+    chance 1
+  more
+  arch aldwulf_flintaxe_2
+    chance 1
+  more
+  arch aldwulf_pick_1
+    chance 1
+  more
+  arch aldwulf_pick_2
+    chance 1
+  more
+  arch aldwulf_rootclub_1
+    chance 1
+  more
+  arch aldwulf_giantclub_1
+    chance 1
+  more
+  arch aldwulf_bigclub_3
+    chance 1
+  more
+  arch aldwulf_hammer_1
+    chance 1
+  more
+  arch aldwulf_cleaver_1
+    chance 1
+  more
+  arch aldwulf_cleaver_2
+    chance 1
+  more
+  arch aldwulf_maul_1
+    chance 1
+  more
+  arch aldwulf_maul_2
+    chance 1
+  more
+  arch aldwulf_maul_3
+    chance 1
+  more
+  arch aldwulf_spear_1
+    chance 1
+  more
+  arch aldwulf_pike_1
+    chance 1
+  more
+  arch aldwulf_mace_1
+    chance 1
+  more
+  arch aldwulf_club_4
+    chance 1
+  more
+  arch aldwulf_axe_3
+    chance 1
+  more
+  arch aldwulf_ram_1
+    chance 1
+end
 
