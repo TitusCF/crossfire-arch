@@ -1,0 +1,90 @@
+treasureone random_scorn_missileweapon
+arch scorn_bow_1
+magic 3
+chance 5
+more
+arch scorn_bow_2
+magic 3
+chance 5
+more
+arch scorn_bow_3
+magic 3
+chance 6
+more
+arch scorn_bow_4
+magic 3
+chance 6
+more
+arch scorn_bow_5
+magic 3
+chance 6
+more
+arch scorn_bow_6
+magic 3
+chance 6
+more
+arch scorn_bow_7
+magic 3
+chance 6
+more
+arch scorn_bow_8
+magic 3
+chance 5
+more
+arch scorn_bow_9
+magic 3
+chance 5
+more
+arch scorn_bow_10
+magic 3
+chance 4
+more
+arch scorn_crossbow_1
+magic 3
+chance 6
+more
+arch scorn_crossbow_2
+magic 3
+chance 6
+more
+arch scorn_crossbow_3
+magic 3
+chance 7
+more
+arch scorn_crossbow_4
+magic 3
+chance 7
+more
+arch scorn_crossbow_5
+magic 3
+chance 6
+more
+arch scorn_crossbow_6
+magic 3
+chance 6
+more
+arch scorn_crossbow_7
+magic 3
+chance 6
+more
+arch scorn_crossbow_8
+magic 3
+chance 5
+more
+arch scorn_crossbow_9
+magic 3
+chance 5
+more
+arch scorn_crossbow_10
+magic 3
+chance 4
+more
+arch scorn_crossbow_11
+magic 3
+chance 4
+more
+arch scorn_crossbow_12
+magic 3
+chance 4
+end
+

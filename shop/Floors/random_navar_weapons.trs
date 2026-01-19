@@ -1,0 +1,65 @@
+treasureone random_navar_weapon
+  arch navar_dagger_1
+    magic 3
+    chance 8
+  more
+  arch navar_dagger_2
+    magic 3
+    chance 6
+  more
+  arch navar_dagger_3
+    magic 3
+    chance 4
+  more
+  arch navar_sword_1
+    magic 3
+    chance 10
+  more
+  arch navar_sword_2
+    magic 3
+    chance 7
+  more
+  arch navar_sword_3
+    magic 3
+    chance 5
+  more
+  arch navar_broadsword_1
+    magic 3
+    chance 8
+  more
+  arch navar_broadsword_2
+    magic 3
+    chance 5
+  more
+  arch navar_axe_1
+    magic 3
+    chance 9
+  more
+  arch navar_axe_2
+    magic 3
+    chance 6
+  more
+  arch navar_axe_3
+    magic 3
+    chance 5
+  more
+  arch navar_hammer_1
+    magic 3
+    chance 8
+  more
+  arch navar_hammer_2
+    magic 3
+    chance 5
+  more
+  arch navar_club_1
+    magic 3
+    chance 7
+  more
+  arch navar_poleaxe_1
+    magic 3
+    chance 4
+  more
+  arch navar_poleaxe_2
+    magic 3
+    chance 2
+end
