@@ -1,0 +1,126 @@
+treasureone random_scorn_armor
+arch scorn_gloves_1
+magic 2
+chance 6
+more
+arch scorn_gloves_2
+magic 2
+chance 6
+more
+arch scorn_gloves_3
+magic 2
+chance 5
+more
+arch scorn_gloves_4
+magic 2
+chance 2
+more
+arch scorn_gloves_5
+magic 2
+chance 5
+more
+arch scorn_gloves_6
+magic 2
+chance 5
+more
+arch scorn_gloves_7
+magic 2
+chance 4
+more
+arch scorn_gloves_8
+magic 2
+chance 4
+more
+arch scorn_b_gauntlets_1
+magic 2
+chance 6
+more
+arch scorn_b_gauntlets_2
+magic 2
+chance 5
+more
+arch scorn_b_gauntlets_3
+magic 2
+chance 4
+more
+arch scorn_b_gauntlets_4
+magic 2
+chance 4
+more
+arch scorn_b_gauntlets_5
+magic 2
+chance 4
+more
+arch scorn_b_gauntlets_6
+magic 2
+chance 5
+more
+arch scorn_b_gauntlets_7
+magic 2
+chance 3
+more
+arch scorn_b_gauntlets_8
+magic 2
+chance 4
+more
+arch scorn_b_gauntlets_9
+magic 2
+chance 3
+more
+arch scorn_chain_mail_1
+magic 3
+chance 6
+more
+arch scorn_chain_mail_2
+magic 3
+chance 6
+more
+arch scorn_chain_mail_3
+magic 3
+chance 4
+more
+arch scorn_chain_mail_4
+magic 3
+chance 3
+more
+arch scorn_chain_mail_5
+magic 3
+chance 6
+more
+arch scorn_chain_mail_6
+magic 3
+chance 5
+more
+arch scorn_chain_mail_7
+magic 3
+chance 4
+more
+arch scorn_chain_mail_8
+magic 3
+chance 2
+more
+arch scorn_plate_mail_1
+magic 4
+chance 4
+more
+arch scorn_plate_mail_2
+magic 4
+chance 4
+more
+arch scorn_plate_mail_3
+magic 4
+chance 3
+more
+arch scorn_plate_mail_4
+magic 4
+chance 2
+more
+arch scorn_plate_mail_5
+magic 4
+chance 4
+more
+arch scorn_plate_mail_6
+magic 4
+chance 1
+end
+
