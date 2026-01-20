@@ -8,7 +8,7 @@ msg
 These evergreens are so dense! Maybe you could fly over them...
 (note: use a woodsmans axe to chop trees)
 endmsg
-randomitems tree
+harvestitems tree
 harvest_exhaust_replacement -
 no_pick 1
 is_wooded 1

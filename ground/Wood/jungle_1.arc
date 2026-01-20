@@ -14,6 +14,6 @@ smoothlevel 129
 smoothface jungle_1.111 jungle_S.111
 is_wooded 1
 is_floor 1
-randomitems tree
+harvestitems tree
 harvest_exhaust_replacement grass
 end

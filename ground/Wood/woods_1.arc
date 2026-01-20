@@ -1,7 +1,7 @@
 Object woods
 face woods_1.111
 race /terrain/forest
-randomitems tree
+harvestitems tree
 type 20
 move_block walk boat swim
 msg

@@ -1,7 +1,7 @@
 Object tree3
 name tree
 face tree_3.111
-randomitems tree
+harvestitems tree
 no_pick 1
 type 20
 move_block walk boat swim

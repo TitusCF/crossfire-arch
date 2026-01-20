@@ -2,7 +2,7 @@ Object grass
 face grass.111
 type 67
 race /terrain/plains
-randomitems dirt_ground
+harvestitems dirt_ground
 harvest_exhaust_replacement earth
 move_on walk
 is_floor 1
@@ -17,7 +17,7 @@ end
 Object grass_only
 name grass
 face grass.111
-randomitems dirt_ground
+harvestitems dirt_ground
 harvest_exhaust_replacement earth
 type 67
 move_on walk

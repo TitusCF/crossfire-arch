@@ -8,7 +8,7 @@ msg
 you run into a tree, ouch!
 (note: use a woodsmans axe to chop trees)
 endmsg
-randomitems tree
+harvestitems tree
 harvest_exhaust_replacement -
 is_wooded 1
 end

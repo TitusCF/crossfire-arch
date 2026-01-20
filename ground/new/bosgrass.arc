@@ -1,7 +1,7 @@
 Object bosgrass
 name grass
 face bosgrass.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -16,7 +16,7 @@ end
 Object bosgrass2
 name grass
 face bosgrass2.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -31,7 +31,7 @@ end
 Object bosgrass3
 name grass
 face bosgrass3.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -46,7 +46,7 @@ end
 Object bosgrass4
 name grass
 face bosgrass4.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -61,7 +61,7 @@ end
 Object bosgrass5
 name grass
 face bosgrass5.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -76,7 +76,7 @@ end
 Object bosgrass6
 name grass
 face bosgrass6.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -91,7 +91,7 @@ end
 Object bosgrass7
 name grass
 face bosgrass7.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -106,7 +106,7 @@ end
 Object bosgrass8
 name grass
 face bosgrass8.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -121,7 +121,7 @@ end
 Object bosgrass9
 name grass
 face bosgrass9.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -136,7 +136,7 @@ end
 Object bosgrass10
 name grass
 face bosgrass10.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -151,7 +151,7 @@ end
 Object bosgrass11
 name grass
 face bosgrass11.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -166,7 +166,7 @@ end
 Object bosgrass12
 name grass
 face bosgrass12.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -181,7 +181,7 @@ end
 Object bosgrass13
 name grass
 face bosgrass13.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -196,7 +196,7 @@ end
 Object bosgrass14
 name grass
 face bosgrass14.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -211,7 +211,7 @@ end
 Object bosgrass15
 name grass
 face bosgrass15.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -226,7 +226,7 @@ end
 Object bosgrass16
 name grass
 face bosgrass16.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1
@@ -241,7 +241,7 @@ end
 Object bosgrass17
 name grass
 face bosgrass17.111
-randomitems dirt_ground
+harvestitems dirt_ground
 type 67
 walk_on 1
 no_pick 1

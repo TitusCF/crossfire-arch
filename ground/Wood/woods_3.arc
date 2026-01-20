@@ -1,7 +1,7 @@
 Object woods_3
 name woods
 face woods_3.111
-randomitems tree
+harvestitems tree
 race /terrain/forest
 type 20
 move_block walk boat swim

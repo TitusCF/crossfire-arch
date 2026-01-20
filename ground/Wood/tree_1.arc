@@ -6,7 +6,7 @@ msg
 You run into a tree, OUCH!
 (note: use a woodsmans axe to chop trees)
 endmsg
-randomitems tree
+harvestitems tree
 is_wooded 1
 no_pick 1
 is_floor 1
