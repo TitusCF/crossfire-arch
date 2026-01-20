@@ -36,7 +36,7 @@ Object santo_chest_1
 name Farmguard Leather Vest
 nrof 1
 type 16
-face leather_armour.111
+face leather_ar.111
 material 64
 ac 3
 msg
@@ -82,7 +82,7 @@ client_type 201
 body_torso 1
 end
 Object santo_gloves_1
-name Tiller’s Guard Gloves
+name Tillers Guard Gloves
 nrof 1
 type 16
 face gloves.111
@@ -152,7 +152,7 @@ Object santo_shield_1
 name Farmstead Round Shield
 nrof 1
 type 16
-face round_shield.111
+face round_shiel.111
 material 64
 ac 3
 resist_physical 5
@@ -169,7 +169,7 @@ Object santo_shield_2
 name Coastguard Kite Shield
 nrof 1
 type 16
-face k_shield.111
+face b_shield.111
 material 128
 ac 5
 resist_physical 8
