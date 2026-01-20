@@ -1,0 +1,68 @@
+treasureone random_brest_weapon
+arch brest_sword_1
+chance 1
+more
+arch brest_sword_2
+chance 1
+more
+arch brest_dagger_1
+chance 1
+more
+arch brest_mace_1
+chance 1
+more
+arch brest_club_1
+chance 1
+more
+arch brest_axe_1
+chance 1
+more
+arch brest_hammer_1
+chance 1
+more
+arch brest_maul_1
+chance 1
+more
+arch brest_spear_1
+chance 1
+more
+arch brest_spear_2
+chance 1
+more
+arch brest_staff_1
+chance 1
+more
+arch brest_staff_2
+chance 1
+more
+arch brest_bow_1
+chance 1
+more
+arch brest_bow_2
+chance 1
+more
+arch brest_crossbow_1
+chance 1
+more
+arch brest_crossbow_2
+chance 1
+more
+arch brest_sling_1
+chance 1
+more
+arch brest_throwingknife_1
+chance 1
+more
+arch brest_blowgun_1
+chance 1
+more
+arch brest_blowgun_2
+chance 1
+more
+arch brest_javelin_1
+chance 1
+more
+arch brest_javelin_2
+chance 1
+end
+
