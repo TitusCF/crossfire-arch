@@ -405,7 +405,7 @@ name Orcish Cleaver
 nrof 1
 last_sp 13
 type 15
-face axe.111
+face axe_1.111
 material 2
 dam 11
 weapontype 7
@@ -425,7 +425,7 @@ name Rust-Edged Cleaver
 nrof 1
 last_sp 11
 type 15
-face axe.111
+face axe_1.111
 material 2
 dam 12
 weapontype 7
@@ -545,7 +545,7 @@ name Pit-Fighter's Mace
 nrof 1
 last_sp 14
 type 15
-face mace.111
+face mace_1.111
 material 64
 dam 12
 weapontype 8

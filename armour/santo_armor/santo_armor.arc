@@ -69,7 +69,7 @@ Object santo_chest_3
 name Coastroad Mail Shirt
 nrof 1
 type 16
-face chain_mail.111
+face chainmail.111
 material 128
 ac 6
 msg

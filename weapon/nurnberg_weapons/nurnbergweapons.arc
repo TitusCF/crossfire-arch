@@ -119,7 +119,7 @@ name Muramasa Nodachi
 nrof 1
 last_sp 22
 type 15
-face katana.111
+face katana_1.111
 material 64
 dam 26
 weapontype 7
@@ -142,7 +142,7 @@ name Muramasa Worldcleaver
 nrof 1
 last_sp 24
 type 15
-face katana.111
+face katana_1.111
 material 128
 dam 30
 weapontype 7
@@ -304,7 +304,7 @@ name Muramasa Worldgrain Staff
 nrof 1
 last_sp 16
 type 15
-face quarterstaff.111
+face quarters.111
 material 128
 dam 12
 weapontype 8
@@ -328,7 +328,7 @@ name Muramasa Builder's Echo Staff
 nrof 1
 last_sp 18
 type 15
-face quarterstaff.111
+face quarters.111
 material 192
 dam 15
 weapontype 8
