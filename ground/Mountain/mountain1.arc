@@ -10,7 +10,7 @@ end
 Object mountain_a
 name mountains
 face mountain_a.111
-randomitems random_minerals
+harvestitems random_minerals
 harvest_exhaust_replacement blackrock
 type 20
 race /terrain/mountain
@@ -32,7 +32,7 @@ end
 Object mountain_b
 name mountains
 face mountain_b.111
-randomitems random_ore
+harvestitems random_ore
 harvest_exhaust_replacement blackrock
 type 20
 race /terrain/mountain
@@ -54,7 +54,7 @@ end
 Object mountain_c
 name mountains
 face mountain_c.111
-randomitems random_stone
+harvestitems random_stone
 harvest_exhaust_replacement blackrock
 type 20
 race /terrain/mountain
@@ -76,7 +76,7 @@ end
 Object mountain_d
 name mountains
 face mountain_d.111
-randomitems random_inorganic
+harvestitems random_inorganic
 harvest_exhaust_replacement blackrock
 type 20
 race /terrain/mountain

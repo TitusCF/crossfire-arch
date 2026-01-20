@@ -3,7 +3,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_a
 is_floor 1
 no_pick 1
@@ -18,7 +18,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_b
 is_floor 1
 no_pick 1
@@ -33,7 +33,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_c
 is_floor 1
 no_pick 1
@@ -48,7 +48,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_d
 no_pick 1
 move_slow walk
@@ -62,7 +62,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_e
 is_floor 1
 no_pick 1
@@ -77,7 +77,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_f
 is_floor 1
 no_pick 1
@@ -92,7 +92,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_g
 is_floor 1
 no_pick 1
@@ -107,7 +107,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_h
 no_pick 1
 move_slow walk
@@ -121,7 +121,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_i
 is_floor 1
 no_pick 1
@@ -136,7 +136,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_k
 is_floor 1
 no_pick 1
@@ -151,7 +151,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_l
 no_pick 1
 move_slow walk
@@ -165,7 +165,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_m
 is_floor 1
 no_pick 1
@@ -180,7 +180,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_n
 is_floor 1
 no_pick 1
@@ -195,7 +195,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_o
 is_floor 1
 no_pick 1
@@ -210,7 +210,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_p
 no_pick 1
 move_slow walk
@@ -224,7 +224,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_q
 is_floor 1
 no_pick 1
@@ -239,7 +239,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_r
 no_pick 1
 move_slow walk
@@ -253,7 +253,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_s
 is_floor 1
 no_pick 1
@@ -268,7 +268,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_t
 is_floor 1
 no_pick 1
@@ -283,7 +283,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_u
 is_floor 1
 no_pick 1
@@ -298,7 +298,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_v
 no_pick 1
 move_slow walk
@@ -312,7 +312,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_w
 is_floor 1
 no_pick 1
@@ -327,7 +327,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_x
 is_floor 1
 no_pick 1
@@ -342,7 +342,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_y
 no_pick 1
 move_slow walk
@@ -356,7 +356,7 @@ name earth
 face earth.111
 type 67
 move_on walk
-randomitems dirt_ground2
+harvestitems dirt_ground2
 harvest_exhaust_replacement earth_cave
 is_floor 1
 no_pick 1
