@@ -57,7 +57,7 @@ msg
   be quite impossible to wield a weapon while wearing these.
 endmsg
 client_type 301
-face gauntlet_3.111
+face gauntlet_s.111
 type 100
 resist_physical 4
 dam 8
@@ -306,6 +306,7 @@ material 8
 weight 100
 body_hand -2
 end
+
 Object scorn_gloves_6
 name Hardened Scornian Work Gloves
 msg
@@ -322,6 +323,7 @@ material 8
 weight 120
 body_hand -2
 end
+
 Object scorn_gloves_7
 name Flexible Scornian Gloves
 msg
@@ -338,6 +340,7 @@ material 8
 weight 90
 body_hand -2
 end
+
 Object scorn_gloves_8
 name Padded Scornian Battle Gloves
 msg
@@ -354,6 +357,7 @@ material 8
 weight 150
 body_hand -2
 end
+
 Object scorn_b_gauntlets_6
 name Patched Scornian Gauntlets
 msg
@@ -370,6 +374,7 @@ materialname bronze
 weight 1800
 body_hand -2
 end
+
 Object scorn_b_gauntlets_7
 name Weighted Scornian Gauntlets
 msg
@@ -387,6 +392,7 @@ materialname bronze
 weight 2200
 body_hand -2
 end
+
 Object scorn_b_gauntlets_8
 name Ventilated Scornian Gauntlets
 msg
@@ -404,6 +410,7 @@ materialname bronze
 weight 1700
 body_hand -2
 end
+
 Object scorn_b_gauntlets_9
 name Shock-Dampened Scornian Gauntlets
 msg
@@ -421,6 +428,7 @@ materialname bronze
 weight 1900
 body_hand -2
 end
+
 Object scorn_chain_mail_5
 nrof 1
 name Rusted Scornian Chain Mail
@@ -439,6 +447,7 @@ value 35
 body_torso -1
 gen_sp_armour 15
 end
+
 Object scorn_chain_mail_6
 nrof 1
 name Balanced Scornian Chain Mail
@@ -457,6 +466,7 @@ value 90
 body_torso -1
 gen_sp_armour 15
 end
+
 Object scorn_chain_mail_7
 nrof 1
 name Insulated Scornian Chain Mail
@@ -476,6 +486,7 @@ value 110
 body_torso -1
 gen_sp_armour 15
 end
+
 Object scorn_chain_mail_8
 nrof 1
 name Heavy Scornian Chain Mail
@@ -494,6 +505,7 @@ value 170
 body_torso -1
 gen_sp_armour 15
 end
+
 Object scorn_plate_mail_3
 nrof 1
 name Reinforced Scornian Plate Mail
@@ -512,6 +524,7 @@ value 160
 body_torso -1
 gen_sp_armour 30
 end
+
 Object scorn_plate_mail_4
 nrof 1
 name Tempered Scornian Plate Mail
@@ -530,6 +543,7 @@ value 200
 body_torso -1
 gen_sp_armour 30
 end
+
 Object scorn_plate_mail_5
 nrof 1
 name Salvaged Scornian Plate Mail
@@ -548,6 +562,7 @@ value 80
 body_torso -1
 gen_sp_armour 30
 end
+
 Object scorn_plate_mail_6
 nrof 1
 name Bastion Scornian Plate Mail
