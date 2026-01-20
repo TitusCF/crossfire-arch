@@ -42,6 +42,6 @@ no_pick 1
 no_magic 1
 type 68
 auto_apply 1
-randomitems random_nurnberg_armor
+randomitems random_nurnberg_armors
 damned 1
 end
