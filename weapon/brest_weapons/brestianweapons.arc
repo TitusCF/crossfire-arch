@@ -67,7 +67,7 @@ name Runed Iron Mace
 nrof 1
 last_sp 15
 type 15
-face mace.111
+face mace_1.111
 material 64
 dam 14
 weapontype 8

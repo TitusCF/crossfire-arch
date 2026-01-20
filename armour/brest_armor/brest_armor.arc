@@ -87,7 +87,7 @@ Object brest_armor_3
 name Hardened Leather Coat
 nrof 1
 type 16
-face leather_armour.111
+face leather_ar.111
 material 16
 ac 4
 speed_bonus 2
