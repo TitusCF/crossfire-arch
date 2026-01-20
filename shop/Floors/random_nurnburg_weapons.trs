@@ -65,9 +65,6 @@ treasureone random_nurnberg_weapons
   arch nurnberg_javelin_2
     chance 1
   more
-  arch nurnberg_sling_1
-    chance 1
-  more
   arch nurnberg_blowgun_1
     chance 1
   more
