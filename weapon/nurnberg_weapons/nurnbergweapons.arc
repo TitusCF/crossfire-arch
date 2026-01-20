@@ -20,6 +20,7 @@ client_type 102
 body_arm -1
 skill one handed weapons
 end
+
 Object nurnberg_katana_2
 name Muramasa Void-Edged Katana
 nrof 1
@@ -43,6 +44,7 @@ client_type 102
 body_arm -1
 skill one handed weapons
 end
+
 Object nurnberg_wakizashi_1
 name Muramasa Wakizashi
 nrof 1
@@ -65,6 +67,7 @@ client_type 102
 body_arm -1
 skill one handed weapons
 end
+
 Object nurnberg_dagger_1
 name Muramasa Needle Dagger
 nrof 1
@@ -87,6 +90,7 @@ client_type 101
 body_arm -1
 skill one handed weapons
 end
+
 Object nurnberg_dagger_2
 name Muramasa Spirit Fang
 nrof 1
@@ -109,6 +113,7 @@ client_type 101
 body_arm -1
 skill one handed weapons
 end
+
 Object nurnberg_nodachi_1
 name Muramasa Nodachi
 nrof 1
@@ -131,6 +136,7 @@ client_type 102
 body_arm -2
 skill two handed weapons
 end
+
 Object nurnberg_nodachi_2
 name Muramasa Worldcleaver
 nrof 1
@@ -155,6 +161,7 @@ client_type 102
 body_arm -2
 skill two handed weapons
 end
+
 Object nurnberg_spear_1
 name Muramasa Ashwood Spear
 nrof 1
@@ -176,6 +183,7 @@ client_type 117
 body_arm -1
 skill polearms
 end
+
 Object nurnberg_spear_2
 name Muramasa Boundary Spear
 nrof 1
@@ -198,6 +206,7 @@ client_type 117
 body_arm -1
 skill polearms
 end
+
 Object nurnberg_naginata_1
 name Muramasa Naginata
 nrof 1
@@ -220,6 +229,7 @@ client_type 117
 body_arm -2
 skill two handed weapons
 end
+
 Object nurnberg_club_1
 name Muramasa Iron Tetsubo
 nrof 1
@@ -242,6 +252,7 @@ client_type 121
 body_arm -2
 skill two handed weapons
 end
+
 Object nurnberg_hammer_1
 name Muramasa War Hammer
 nrof 1
@@ -264,6 +275,7 @@ client_type 126
 body_arm -1
 skill one handed weapons
 end
+
 Object nurnberg_axe_1
 name Muramasa Crescent Axe
 nrof 1
@@ -286,6 +298,7 @@ client_type 106
 body_arm -1
 skill one handed weapons
 end
+
 Object nurnberg_staff_1
 name Muramasa Worldgrain Staff
 nrof 1
@@ -309,6 +322,7 @@ client_type 121
 body_arm -1
 skill one handed weapons
 end
+
 Object nurnberg_staff_2
 name Muramasa Builder's Echo Staff
 nrof 1
@@ -333,6 +347,7 @@ client_type 121
 body_arm -1
 skill one handed weapons
 end
+
 Object nurnberg_bow_1
 name Muramasa Longbow
 nrof 1
@@ -353,6 +368,7 @@ name_pl bows
 client_type 115
 skill missile weapons
 end
+
 Object nurnberg_bow_2
 name Muramasa Boundary Bow
 nrof 1
@@ -374,6 +390,7 @@ name_pl bows
 client_type 115
 skill missile weapons
 end
+
 Object nurnberg_crossbow_1
 name Muramasa Precision Crossbow
 nrof 1
@@ -393,6 +410,7 @@ name_pl crossbows
 client_type 116
 skill missile weapons
 end
+
 Object nurnberg_crossbow_2
 name Muramasa Worldlocked Crossbow
 nrof 1
@@ -413,6 +431,7 @@ name_pl crossbows
 client_type 116
 skill missile weapons
 end
+
 Object nurnberg_throwingknife_1
 name Muramasa Throwing Blade
 nrof 1
@@ -433,6 +452,7 @@ name_pl throwing blades
 client_type 101
 skill missile weapons
 end
+
 Object nurnberg_javelin_1
 name Muramasa Flight Javelin
 nrof 1
@@ -453,6 +473,7 @@ name_pl javelins
 client_type 117
 skill missile weapons
 end
+
 Object nurnberg_javelin_2
 name Muramasa Worldpiercer Javelin
 nrof 1
@@ -474,6 +495,7 @@ name_pl javelins
 client_type 117
 skill missile weapons
 end
+
 Object nurnberg_blowgun_1
 name Muramasa Silent Reed
 nrof 1
@@ -494,6 +516,7 @@ name_pl blowguns
 client_type 113
 skill missile weapons
 end
+
 Object nurnberg_blowgun_2
 name Muramasa Phase Breath Tube
 nrof 1
