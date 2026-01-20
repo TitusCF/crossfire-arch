@@ -1,9 +1,9 @@
 Object santo_sword_1
-name Erash’s Field Longsword
+name Erashs Field Longsword
 nrof 1
 last_sp 12
 type 15
-face sword_7.111
+face sword_1.111
 material 64
 dam 12
 weapontype 7
@@ -24,7 +24,7 @@ name Wheatwarden Blade
 nrof 1
 last_sp 11
 type 15
-face sword_4.111
+face sword_1.111
 material 64
 dam 10
 weapontype 7
@@ -85,7 +85,7 @@ body_arm -1
 skill one handed weapons
 end
 Object santo_dagger_1
-name Erash’s Work Knife
+name Erashs Work Knife
 nrof 1
 last_sp 8
 type 15
@@ -152,7 +152,7 @@ name Harvest Sickle
 nrof 1
 last_sp 9
 type 15
-face sickle1.111
+face sickle_1.111
 material 64
 dam 7
 weapontype 4
@@ -173,7 +173,7 @@ name Reinforced Harvest Sickle
 nrof 1
 last_sp 10
 type 15
-face sickle1.111
+face sickle_1.111
 material 128
 dam 9
 weapontype 4
@@ -194,7 +194,7 @@ name Santo Field Kama
 nrof 1
 last_sp 10
 type 15
-face kama1.111
+face kama_1.111
 material 64
 dam 8
 weapontype 4
@@ -211,11 +211,11 @@ body_arm -1
 skill one handed weapons
 end
 Object santo_kama_2
-name Erash’s Curved Edge
+name Erashs Curved Edge
 nrof 1
 last_sp 11
 type 15
-face kama2.111
+face kama_2.111
 material 128
 dam 10
 weapontype 4
@@ -274,11 +274,11 @@ body_arm -1
 skill one handed weapons
 end
 Object santo_cleaver_1
-name Butcher’s Defense Cleaver
+name Butchers Defense Cleaver
 nrof 1
 last_sp 10
 type 15
-face brdaxe1.111
+face brdaxe_1.111
 material 64
 dam 10
 weapontype 8
@@ -295,11 +295,11 @@ body_arm -1
 skill one handed weapons
 end
 Object santo_cleaver_2
-name Erash’s Heavy Cleaver
+name Erashs Heavy Cleaver
 nrof 1
 last_sp 12
 type 15
-face brdaxe1.111
+face brdaxe_1.111
 material 128
 dam 13
 weapontype 8
