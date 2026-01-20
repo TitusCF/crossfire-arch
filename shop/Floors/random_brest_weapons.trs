@@ -47,9 +47,6 @@ more
 arch brest_crossbow_2
 chance 1
 more
-arch brest_sling_1
-chance 1
-more
 arch brest_throwingknife_1
 chance 1
 more

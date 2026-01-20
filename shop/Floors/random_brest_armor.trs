@@ -1,0 +1,56 @@
+treasureone random_brest_armor
+arch brest_helm_1
+chance 1
+more
+arch brest_helm_2
+chance 1
+more
+arch brest_helm_3
+chance 1
+more
+arch brest_armor_1
+chance 1
+more
+arch brest_armor_2
+chance 1
+more
+arch brest_armor_3
+chance 1
+more
+arch brest_shield_1
+chance 1
+more
+arch brest_shield_2
+chance 1
+more
+arch brest_gloves_1
+chance 1
+more
+arch brest_gloves_2
+chance 1
+more
+arch brest_boots_1
+chance 1
+more
+arch brest_boots_2
+chance 1
+more
+arch brest_cloak_1
+chance 1
+more
+arch brest_cloak_2
+chance 1
+more
+arch brest_belt_1
+chance 1
+more
+arch brest_belt_2
+chance 1
+more
+arch brest_bracers_1
+chance 1
+more
+arch brest_bracers_2
+chance 1
+end
+
