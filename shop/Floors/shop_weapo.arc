@@ -93,3 +93,15 @@ auto_apply 1
 randomitems random_nurnberg_weapons
 damned 1
 end
+
+Object random_santodominion_weapon
+name weapon tile
+is_floor 1
+face shop_weapo.111
+no_pick 1
+no_magic 1
+type 68
+auto_apply 1
+randomitems random_santodominion_weapons
+damned 1
+end

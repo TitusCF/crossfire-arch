@@ -1,0 +1,59 @@
+treasureone random_santodominion_weapons
+  arch santo_sword_1
+    chance 1
+  more
+  arch santo_sword_2
+    chance 1
+  more
+  arch santo_sword_3
+    chance 1
+  more
+  arch santo_sword_4
+    chance 1
+  more
+  arch santo_dagger_1
+    chance 1
+  more
+  arch santo_dagger_2
+    chance 1
+  more
+  arch santo_dagger_3
+    chance 1
+  more
+  arch santo_sickle_1
+    chance 1
+  more
+  arch santo_sickle_2
+    chance 1
+  more
+  arch santo_kama_1
+    chance 1
+  more
+  arch santo_kama_2
+    chance 1
+  more
+  arch santo_shortblade_1
+    chance 1
+  more
+  arch santo_shortblade_2
+    chance 1
+  more
+  arch santo_cleaver_1
+    chance 1
+  more
+  arch santo_cleaver_2
+    chance 1
+  more
+  arch santo_falchion_1
+    chance 1
+  more
+  arch santo_falchion_2
+    chance 1
+  more
+  arch santo_knife_1
+    chance 1
+  more
+  arch santo_knife_2
+    chance 1
+end
+

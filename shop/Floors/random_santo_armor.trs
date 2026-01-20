@@ -1,0 +1,59 @@
+treasureone random_santo_armor
+  arch santo_helm_1
+    chance 1
+  more
+  arch santo_helm_2
+    chance 1
+  more
+  arch santo_chest_1
+    chance 1
+  more
+  arch santo_chest_2
+    chance 1
+  more
+  arch santo_chest_3
+    chance 1
+  more
+  arch santo_gloves_1
+    chance 1
+  more
+  arch santo_gloves_2
+    chance 1
+  more
+  arch santo_boots_1
+    chance 1
+  more
+  arch santo_boots_2
+    chance 1
+  more
+  arch santo_shield_1
+    chance 1
+  more
+  arch santo_shield_2
+    chance 1
+  more
+  arch santo_cloak_1
+    chance 1
+  more
+  arch santo_cloak_2
+    chance 1
+  more
+  arch santo_belt_1
+    chance 1
+  more
+  arch santo_belt_2
+    chance 1
+  more
+  arch santo_bracers_1
+    chance 1
+  more
+  arch santo_bracers_2
+    chance 1
+  more
+  arch santo_ring_1
+    chance 1
+  more
+  arch santo_ring_2
+    chance 1
+end
+
