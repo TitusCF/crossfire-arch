@@ -1,0 +1,65 @@
+treasureone random_nurnberg_armors
+  arch nurnberg_helm_1
+    chance 1
+  more
+  arch nurnberg_helm_2
+    chance 1
+  more
+  arch nurnberg_chest_1
+    chance 1
+  more
+  arch nurnberg_chest_2
+    chance 1
+  more
+  arch nurnberg_chest_3
+    chance 1
+  more
+  arch nurnberg_gloves_1
+    chance 1
+  more
+  arch nurnberg_gloves_2
+    chance 1
+  more
+  arch nurnberg_boots_1
+    chance 1
+  more
+  arch nurnberg_boots_2
+    chance 1
+  more
+  arch nurnberg_shield_1
+    chance 1
+  more
+  arch nurnberg_shield_2
+    chance 1
+  more
+  arch nurnberg_cloak_1
+    chance 1
+  more
+  arch nurnberg_cloak_2
+    chance 1
+  more
+  arch nurnberg_belt_1
+    chance 1
+  more
+  arch nurnberg_belt_2
+    chance 1
+  more
+  arch nurnberg_bracers_1
+    chance 1
+  more
+  arch nurnberg_bracers_2
+    chance 1
+  more
+  arch nurnberg_mask_1
+    chance 1
+  more
+  arch nurnberg_mask_2
+    chance 1
+  more
+  arch nurnberg_ring_1
+    chance 1
+  more
+  arch nurnberg_ring_2
+    chance 1
+end
+
