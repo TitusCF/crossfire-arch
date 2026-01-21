@@ -10,8 +10,8 @@ no_pick 1
 move_slow walk
 move_slow_penalty 1
 is_wooded 1
-smoothface grass_S.111 empty_S.111
-smoothlevel 11
+smoothlevel 40
+smoothface grass.111 grass_S.111
 end
 
 Object earth_a6
