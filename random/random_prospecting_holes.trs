@@ -98,7 +98,7 @@ treasureone random_prospecting_holes
   arch prospecthole_gem_gem
     chance 1
   more
-  arch prospect_plat
+  arch prospecthole_plat
     chance 1
 end
 
