@@ -1,5 +1,5 @@
 Object mountain_5
-name Ancient Rock
+name war-scarred rock veins 
 randomitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
@@ -18,8 +18,8 @@ is_floor 1
 end
 More
 Object mountain_5_2
-name Ancient Rock
-randomitems deep_mountain
+name war-scarred rock veins 
+harvestitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
@@ -38,8 +38,8 @@ is_floor 1
 end
 More
 Object mountain_5_3
-name Ancient Rock
-randomitems deep_mountain
+name war-scarred rock veins 
+harvestitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
@@ -58,8 +58,8 @@ is_floor 1
 end
 More
 Object mountain_5_4
-name Ancient Rock
-randomitems deep_mountain
+name war-scarred rock veins 
+harvestitems deep_mountain
 harvest_exhaust_replacement blackrock
 face mountain_2.x11
 no_pick 1
