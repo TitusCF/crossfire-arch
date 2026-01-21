@@ -1,0 +1,22 @@
+treasureone random_ground
+ arch earth
+  chance 2
+ more
+ arch earth1
+  chance 1
+ more
+ arch eaerth2
+  chance 3
+ more
+ arch earth3
+  chance 3
+ more
+ arch earth4
+  chance 1
+ more
+ arch earth5
+  chance 3
+ more
+ arch earth6
+  chance 3
+end
