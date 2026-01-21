@@ -2,7 +2,7 @@ Object angel
 randomitems angel
 race angel
 name angel
-face angel.111
+face liteangel.112
 animation angel
 is_animated 1
 monster 1
