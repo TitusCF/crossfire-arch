@@ -2,7 +2,7 @@ Object blackrock
 name blackrock
 face blackrock.111
 type 67
-randomitems mountain
+harvestitems mountain
 harvest_exhaust_replacement permanent_lava
 no_pick 1
 is_floor 1
