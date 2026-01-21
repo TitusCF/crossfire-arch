@@ -1,0 +1,104 @@
+treasureone random_prospecting_holes
+  arch prospecthole_worthless_b
+    chance 60
+  more
+  arch prospecthole_worthless_g
+    chance 60
+  more
+  arch prospecthole_worthless_mixed
+    chance 60
+  more
+  arch prospecthole_worthless_r
+    chance 60
+  more
+  arch prospecthole_worthless_y
+    chance 60
+  more
+  arch prospecthole_tin
+    chance 20
+  more
+  arch prospecthole_zinc
+    chance 20
+  more
+  arch prospecthole_silver
+    chance 15
+  more
+  arch prospecthole_mineral_dust_generic
+    chance 18
+  more
+  arch prospecthole_mineral_graphite
+    chance 15
+  more
+  arch prospecthole_mineral_gypsum
+    chance 15
+  more
+  arch prospecthole_mineral_salt
+    chance 15
+  more
+  arch prospecthole_mineral_sulphur
+    chance 12
+  more
+  arch prospecthole_mineral_pyrite
+    chance 12
+  more
+  arch prospecthole_mineral_cinnabar
+    chance 10
+  more
+  arch prospecthole_mineral_phosphorus
+    chance 8
+  more
+  arch prospecthole_gem_quartz
+    chance 6
+  more
+  arch prospecthole_gem_agate
+    chance 5
+  more
+  arch prospecthole_gem_chalcedony
+    chance 5
+  more
+  arch prospecthole_gem_garnet
+    chance 5
+  more
+  arch prospecthole_gem_peridot
+    chance 5
+  more
+  arch prospecthole_gem_amethyst
+    chance 4
+  more
+  arch prospecthole_gem_onyx
+    chance 4
+  more
+  arch prospecthole_gem_topaz
+    chance 4
+  more
+  arch prospecthole_gem_tourmaline
+    chance 3
+  more
+  arch prospecthole_gem_aquamarine_gem
+    chance 3
+  more
+  arch prospecthole_gem_jacinth
+    chance 3
+  more
+  arch prospecthole_gem_chrysoberyl
+    chance 2
+  more
+  arch prospecthole_gem_emerald
+    chance 2
+  more
+  arch prospecthole_gem_ruby
+    chance 2
+  more
+  arch prospecthole_gem_sapphire
+    chance 2
+  more
+  arch prospecthole_gem_mithril
+    chance 1
+  more
+  arch prospecthole_gem_gem
+    chance 1
+  more
+  arch prospect_plat
+    chance 1
+end
+
