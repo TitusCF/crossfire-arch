@@ -381,7 +381,7 @@ face earth.111
 type 67
 move_on walk
 harvestitems dirt_ground2
-harvest_exhaust_replacement random_prospecting
+harvest_exhaust_replacement earth_cave
 is_floor 1
 no_pick 1
 move_slow walk

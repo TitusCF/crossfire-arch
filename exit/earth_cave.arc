@@ -1,19 +1,26 @@
 Object earth_cave
+name prospecting cave
 slaying /!
-name hole in the stones
-type 66
 msg
-floorstyle oil
-darkness 5
+layoutstyle maze
+floorstyle MLABGMINE
 wallstyle cave3
+doorstyle stone
 exitstyle ladder
-decorstyle rugged
-symmetry 1
-dungeon_depth 20
+decorstyle prospect_nothing
+monsterstyle subterranean_7
+treasurestyle mine_iron
+xsize 6
+ysize 6
+symmetry 0
+dungeon_depth 5
 orientation 1
+treasureoptions 64
 endmsg
-face phole_3.111
+face hole1.111
+type 66
 no_pick 1
-move_on walk
+editable 2
+magicmap grey
 client_type 25012
 end
