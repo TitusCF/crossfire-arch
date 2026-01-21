@@ -59,7 +59,15 @@ move_slow_penalty 1
 is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
+endis_floor 1
+no_pick 1
+move_slow walk
+move_slow_penalty 1
+is_wooded 1
+smoothface earth.111 empty_S.111
+smoothlevel 11
 end
+
 
 Object earth_d5
 name earth
@@ -116,6 +124,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_h5
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -163,6 +172,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_k5
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -226,6 +236,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_o5
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -257,6 +268,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_q5
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -320,6 +332,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_u5
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -367,6 +380,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_x5
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1

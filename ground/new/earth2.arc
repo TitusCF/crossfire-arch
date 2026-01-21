@@ -53,6 +53,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_d2
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -116,6 +117,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_h2
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -163,6 +165,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_k2
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -226,6 +229,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_o2
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -257,6 +261,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_q2
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -320,6 +325,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_u2
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
@@ -367,6 +373,7 @@ type 67
 move_on walk
 harvestitems dirt_ground2
 harvest_exhaust_replacement earth_x2
+is_floor 1
 no_pick 1
 move_slow walk
 move_slow_penalty 1
