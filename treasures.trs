@@ -3273,7 +3273,6 @@ treasure dirt_ground
 treasure dirt_ground2
   arch ground_dirt
     chance 100
-  nrof 5
   more
   arch bones1
     chance 10
