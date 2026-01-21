@@ -15,7 +15,7 @@ smoothlevel 11
 end
 
 Object earth_a
-name earth2
+name earth
 face earth.111
 type 67
 move_on walk
@@ -31,7 +31,7 @@ smoothlevel 11
 end
 
 Object earth_b
-name earth3
+name earth
 face earth.111
 type 67
 move_on walk
@@ -47,7 +47,7 @@ smoothlevel 11
 end
 
 Object earth_c
-name earth4
+name earth
 face earth.111
 type 67
 move_on walk
@@ -62,7 +62,7 @@ smoothlevel 11
 end
 
 Object earth_d
-name earth5
+name earth
 face earth.111
 type 67
 move_on walk
@@ -78,7 +78,7 @@ smoothlevel 11
 end
 
 Object earth_e
-name earth6
+name earth
 face earth.111
 type 67
 move_on walk
@@ -94,7 +94,7 @@ smoothlevel 11
 end
 
 Object earth_f
-name earth7
+name earth
 face earth.111
 type 67
 move_on walk
@@ -110,7 +110,7 @@ smoothlevel 11
 end
 
 Object earth_g
-name earth8
+name earth
 face earth.111
 type 67
 move_on walk
@@ -125,7 +125,7 @@ smoothlevel 11
 end
 
 Object earth_h
-name earth9
+name earth
 face earth.111
 type 67
 move_on walk
@@ -141,7 +141,7 @@ smoothlevel 11
 end
 
 Object earth_i
-name earth10
+name earth
 face earth.111
 type 67
 move_on walk
@@ -157,7 +157,7 @@ smoothlevel 11
 end
 
 Object earth_j
-name earth11
+name earth
 face earth.111
 type 67
 move_on walk
@@ -172,7 +172,7 @@ smoothlevel 11
 end
 
 Object earth_k
-name earth12
+name earth
 face earth.111
 type 67
 move_on walk
@@ -188,7 +188,7 @@ smoothlevel 11
 end
 
 Object earth_l
-name earth13
+name earth
 face earth.111
 type 67
 move_on walk
@@ -204,7 +204,7 @@ smoothlevel 11
 end
 
 Object earth_m
-name earth14
+name earth
 face earth.111
 type 67
 move_on walk
@@ -220,7 +220,7 @@ smoothlevel 11
 end
 
 Object earth_n
-name earth15
+name earth
 face earth.111
 type 67
 move_on walk
@@ -235,7 +235,7 @@ smoothlevel 11
 end
 
 Object earth_o
-name earth16
+name earth
 face earth.111
 type 67
 move_on walk
@@ -251,7 +251,7 @@ smoothlevel 11
 end
 
 Object earth_p
-name earth17
+name earth
 face earth.111
 type 67
 move_on walk
@@ -266,7 +266,7 @@ smoothlevel 11
 end
 
 Object earth_q
-name earth18
+name earth
 face earth.111
 type 67
 move_on walk
@@ -282,7 +282,7 @@ smoothlevel 11
 end
 
 Object earth_r
-name earth19
+name earth
 face earth.111
 type 67
 move_on walk
@@ -298,7 +298,7 @@ smoothlevel 11
 end
 
 Object earth_s
-name earth20
+name earth
 face earth.111
 type 67
 move_on walk
@@ -314,7 +314,7 @@ smoothlevel 11
 end
 
 Object earth_t
-name earth21
+name earth
 face earth.111
 type 67
 move_on walk
@@ -329,7 +329,7 @@ smoothlevel 11
 end
 
 Object earth_u
-name earth22
+name earth
 face earth.111
 type 67
 move_on walk
@@ -345,7 +345,7 @@ smoothlevel 11
 end
 
 Object earth_v
-name earth23
+name earth
 face earth.111
 type 67
 move_on walk
@@ -361,7 +361,7 @@ smoothlevel 11
 end
 
 Object earth_w
-name earth24
+name earth
 face earth.111
 type 67
 move_on walk
@@ -376,12 +376,12 @@ smoothlevel 11
 end
 
 Object earth_x
-name earth25
+name earth
 face earth.111
 type 67
 move_on walk
 harvestitems dirt_ground2
-harvest_exhaust_replacement earth_cave
+harvest_exhaust_replacement prospecting
 is_floor 1
 no_pick 1
 move_slow walk

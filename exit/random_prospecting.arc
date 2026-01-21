@@ -1,4 +1,4 @@
-Object random_prospecting
+Object prospecting
 name random prospecting
 face randomOre.111
 type 4

@@ -7,6 +7,7 @@ treasureone random_mountain
  more
  arch mountain_c
   chance 3
+ more
  arch mountain_d
   chance 3
 end
