@@ -237,7 +237,7 @@ name Fieldguard Shortsword
 nrof 1
 last_sp 11
 type 15
-face shortsword_2.111
+face ssword_2.111
 material 64
 dam 9
 weapontype 7
@@ -257,7 +257,7 @@ name Coastroad Shortsword
 nrof 1
 last_sp 12
 type 15
-face shortsword.111
+face ssword_1.111
 material 128
 dam 11
 weapontype 7
