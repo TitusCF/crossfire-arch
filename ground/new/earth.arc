@@ -13,8 +13,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_a
-name earth
+name earth2
 face earth.111
 type 67
 move_on walk
@@ -28,8 +29,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_b
-name earth
+name earth3
 face earth.111
 type 67
 move_on walk
@@ -43,8 +45,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_c
-name earth
+name earth4
 face earth.111
 type 67
 move_on walk
@@ -57,8 +60,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_d
-name earth
+name earth5
 face earth.111
 type 67
 move_on walk
@@ -72,8 +76,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_e
-name earth
+name earth6
 face earth.111
 type 67
 move_on walk
@@ -87,8 +92,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_f
-name earth
+name earth7
 face earth.111
 type 67
 move_on walk
@@ -102,8 +108,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_g
-name earth
+name earth8
 face earth.111
 type 67
 move_on walk
@@ -116,8 +123,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_h
-name earth
+name earth9
 face earth.111
 type 67
 move_on walk
@@ -131,8 +139,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_i
-name earth
+name earth10
 face earth.111
 type 67
 move_on walk
@@ -146,8 +155,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_j
-name earth
+name earth11
 face earth.111
 type 67
 move_on walk
@@ -160,8 +170,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_k
-name earth
+name earth12
 face earth.111
 type 67
 move_on walk
@@ -175,8 +186,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_l
-name earth
+name earth13
 face earth.111
 type 67
 move_on walk
@@ -190,8 +202,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_m
-name earth
+name earth14
 face earth.111
 type 67
 move_on walk
@@ -205,8 +218,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_n
-name earth
+name earth15
 face earth.111
 type 67
 move_on walk
@@ -219,8 +233,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_o
-name earth
+name earth16
 face earth.111
 type 67
 move_on walk
@@ -234,8 +249,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_p
-name earth
+name earth17
 face earth.111
 type 67
 move_on walk
@@ -248,8 +264,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_q
-name earth
+name earth18
 face earth.111
 type 67
 move_on walk
@@ -263,8 +280,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_r
-name earth
+name earth19
 face earth.111
 type 67
 move_on walk
@@ -278,8 +296,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_s
-name earth
+name earth20
 face earth.111
 type 67
 move_on walk
@@ -293,8 +312,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_t
-name earth
+name earth21
 face earth.111
 type 67
 move_on walk
@@ -307,8 +327,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_u
-name earth
+name earth22
 face earth.111
 type 67
 move_on walk
@@ -322,8 +343,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_v
-name earth
+name earth23
 face earth.111
 type 67
 move_on walk
@@ -337,8 +359,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_w
-name earth
+name earth24
 face earth.111
 type 67
 move_on walk
@@ -351,8 +374,9 @@ is_wooded 1
 smoothface earth.111 empty_S.111
 smoothlevel 11
 end
+
 Object earth_x
-name earth
+name earth25
 face earth.111
 type 67
 move_on walk
