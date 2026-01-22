@@ -11,5 +11,6 @@ This forest is so dense! Maybe you could fly over it...
 endmsg
 no_pick 1
 is_wooded 1
-harvest_exhaust_replacement -
+harvest_exhaust_replacement grass
+
 end

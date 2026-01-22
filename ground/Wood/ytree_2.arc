@@ -9,6 +9,6 @@ You run into a tree, OUCH!
 (note: use a woodsmans axe to chop trees)
 endmsg
 harvestitems tree
-harvest_exhaust_replacement -
+harvest_exhaust_replacement grass
 is_wooded 1
 end

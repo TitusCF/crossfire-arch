@@ -1,9 +1,9 @@
 Object woods4
 name woods4
 face woods_4.111
-randomitems tree
-race /terrain/forest
 harvestitems tree
+race /terrain/forest
+randomitems tree
 type 20
 move_block walk boat swim
 msg
