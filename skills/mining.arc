@@ -2,6 +2,7 @@ Object skill_mining
 name mining
 skill mining
 slaying mine
+anim_suffix mining
 type 43
 invisible 1
 no_drop 1
