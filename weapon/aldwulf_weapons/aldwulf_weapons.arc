@@ -585,7 +585,7 @@ name Blood-Grooved Axe
 nrof 1
 last_sp 15
 type 15
-face axe.111
+face axe_1.111
 material 2
 dam 13
 weapontype 7
