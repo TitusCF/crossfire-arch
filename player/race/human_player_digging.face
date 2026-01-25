@@ -1,0 +1,35 @@
+animation human_player_digging
+facings 8
+human_up_digging.111
+human_up_digging.112
+human_up_digging.113
+human_up_digging.114
+human_upright_digging.121
+human_upright_digging.122
+human_upright_digging.123
+human_upright_digging.124
+human_right_digging.131
+human_right_digging.132
+human_right_digging.133
+human_right_digging.134
+human_downright_digging.141
+human_downright_digging.142
+human_downright_digging.143
+human_downright_digging.144
+human_down_digging.151
+human_down_digging.152
+human_down_digging.153
+human_down_digging.154
+human_downleft_digging.161
+human_downleft_digging.162
+human_downleft_digging.163
+human_downleft_digging.164
+human_left_digging.171
+human_left_digging.172
+human_left_digging.173
+human_left_digging.174
+human_upleft_digging.181
+human_upleft_digging.182
+human_upleft_digging.183
+human_upleft_digging.184
+mina
