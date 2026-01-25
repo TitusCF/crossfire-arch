@@ -3,6 +3,7 @@ name shop
 face general_magic_shop_a.x11
 type 66
 animation general_magic_shop_a
+speed 0.2
 no_pick 1
 move_block all
 client_type 25012
@@ -13,6 +14,7 @@ name shop
 face general_magic_shop_a.x11
 type 66
 animation general_magic_shop_a
+speed 0.2
 x 1
 no_pick 1
 move_block all
@@ -23,6 +25,7 @@ name shop
 face general_magic_shop_a.x11
 type 66
 animation general_magic_shop_a
+speed 0.2
 y 1
 no_pick 1
 end
@@ -32,6 +35,7 @@ name shop
 face general_magic_shop_a.x11
 type 66
 animation general_magic_shop_a
+speed 0.2
 x 1
 y 1
 no_pick 1
