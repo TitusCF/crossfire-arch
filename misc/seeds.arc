@@ -1,6 +1,7 @@
 Object seeds
 face seeds.111
 name seeds
+type 67
 nrof 1
 is_animated 1
 harvestitems water_bucket_force
