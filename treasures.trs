@@ -3290,7 +3290,7 @@ treasure dirt_ground2
     chance 10
   nrof 1
   end
-treasure waterbucket_force
+treasure waterbucket
   arch water_bucket_force
     chance 100
   end
