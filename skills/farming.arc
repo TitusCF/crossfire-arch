@@ -2,6 +2,7 @@ Object skill_farming
 name farming
 skill farming
 slaying farm
+anim_suffix farming
 type 43
 invisible 1
 no_drop 1
