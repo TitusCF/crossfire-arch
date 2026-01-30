@@ -3291,7 +3291,7 @@ treasure dirt_ground2
   nrof 1
   end
 treasure waterbucket
-  arch water_bucket_force
+  arch waterbucketcounter
     chance 100
   end
 treasure sea_stuff

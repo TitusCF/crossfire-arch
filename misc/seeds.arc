@@ -5,7 +5,6 @@ type 20
 msg
 These are tomato seeds
 endmsg
-is_floor 1
 nrof 1
 is_animated 1
 harvestitems waterbucket
