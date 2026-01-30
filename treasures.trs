@@ -3290,6 +3290,10 @@ treasure dirt_ground2
     chance 10
   nrof 1
   end
+treasure waterbucket_force
+  arch water_bucket_force
+    chance 100
+  end
 treasure sea_stuff
   arch fish_1
     chance 20
