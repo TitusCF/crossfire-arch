@@ -12,7 +12,7 @@ More
 Object dragon_bones_2
 name dragon_bones
 face dragon_bones_a.111
-animation dragon_bones
+animation dragon_bones_a
 speed 0.2
 type 66
 x 1
@@ -23,7 +23,7 @@ More
 Object dragon_bones_3
 name dragon_bones
 face dragon_bones_a.111
-animation dragon_bones
+animation dragon_bones_a
 speed 0.2
 type 66
 y 1
@@ -33,7 +33,7 @@ More
 Object dragon_bones_4
 name dragon_bones
 face dragon_bones_a.111
-animation dragon_bones
+animation dragon_bones_a
 speed 0.2
 type 66
 x 1
