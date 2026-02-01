@@ -1,5 +1,5 @@
 Object earth_cave_2
-name prospecting cave
+name Ancient Caves
 slaying /!
 msg
 layoutstyle maze
@@ -10,6 +10,9 @@ exitstyle ladder
 decorstyle mine_lead
 monsterstyle subterranean_7
 treasurestyle mine_lead
+final_map /dragon_island/dragonmountain2
+hp 3
+sp 1
 xsize 6
 ysize 6
 symmetry 0
