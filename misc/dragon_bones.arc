@@ -1,7 +1,7 @@
 Object dragon_bones
 name dragon_bones
 face dragon_bones_a.111
-animation dragon_bones
+animation dragon_bones_a
 speed 0.2
 type 66
 no_pick 1
