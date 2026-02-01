@@ -1,7 +1,7 @@
 Object library
 name library
 face library_shop_a.111
-animation library _shop_a
+animation library_shop_a
 speed 0.2
 type 66
 no_pick 1
@@ -12,7 +12,7 @@ More
 Object library_2
 name library
 face library_shop_a.111
-animation library _shop_a
+animation library_shop_a
 speed 0.2
 type 66
 x 1
@@ -23,7 +23,7 @@ More
 Object library_3
 name library
 face library_shop_a.111
-animation library _shop_a
+animation library_shop_a
 speed 0.2
 type 66
 y 1
@@ -33,7 +33,7 @@ More
 Object library_4
 name library
 face library_shop_a.111
-animation library _shop_a
+animation library_shop_a
 speed 0.2
 type 66
 x 1
