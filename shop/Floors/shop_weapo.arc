@@ -105,3 +105,15 @@ auto_apply 1
 randomitems random_santodominion_weapons
 damned 1
 end
+
+Object darcap_shop_weapon
+name weapon tile
+is_floor 1
+face shop_weapo.111
+no_pick 1
+no_magic 1
+type 68
+auto_apply 1
+randomitems random_darcap_weapon
+damned 1
+end

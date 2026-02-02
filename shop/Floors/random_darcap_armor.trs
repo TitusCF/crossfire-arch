@@ -1,0 +1,92 @@
+treasureone random_darcap_armor
+arch darcap_gloves_1
+chance 1
+more
+arch darcap_gloves_2
+chance 1
+more
+arch darcap_gloves_3
+chance 1
+more
+arch darcap_gloves_4
+chance 1
+more
+arch darcap_gauntlets_1
+chance 1
+more
+arch darcap_gauntlets_2
+chance 1
+more
+arch darcap_gauntlets_3
+chance 1
+more
+arch darcap_gauntlets_4
+chance 1
+more
+arch darcap_chain_mail_1
+chance 1
+more
+arch darcap_chain_mail_2
+chance 1
+more
+arch darcap_chain_mail_3
+chance 1
+more
+arch darcap_chain_mail_4
+chance 1
+more
+arch darcap_chain_mail_5
+chance 1
+more
+arch darcap_plate_mail_1
+chance 1
+more
+arch darcap_plate_mail_2
+chance 1
+more
+arch darcap_plate_mail_3
+chance 1
+more
+arch darcap_plate_mail_4
+chance 1
+more
+arch darcap_plate_mail_5
+chance 1
+more
+arch darcap_plate_mail_6
+chance 1
+more
+arch darcap_plate_mail_7
+chance 1
+more
+arch darcap_boots_1
+chance 1
+more
+arch darcap_boots_2
+chance 1
+more
+arch darcap_boots_3
+chance 1
+more
+arch darcap_boots_4
+chance 1
+more
+arch darcap_boots_5
+chance 1
+more
+arch darcap_boots_6
+chance 1
+more
+arch darcap_boots_7
+chance 1
+more
+arch darcap_boots_8
+chance 1
+more
+arch darcap_boots_9
+chance 1
+more
+arch darcap_boots_10
+chance 1
+end
+

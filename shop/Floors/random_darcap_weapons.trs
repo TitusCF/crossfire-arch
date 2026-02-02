@@ -1,0 +1,65 @@
+treasureone random_darcap_weapons
+  arch darcap_dagger_1
+    chance 1
+  more
+  arch darcap_dagger_2
+    chance 1
+  more
+  arch darcap_dagger_3
+    chance 1
+  more
+  arch darcap_shortsword_1
+    chance 1
+  more
+  arch darcap_shortsword_2
+    chance 1
+  more
+  arch darcap_shortsword_3
+    chance 1
+  more
+  arch darcap_sword_1
+    chance 1
+  more
+  arch darcap_sword_2
+    chance 1
+  more
+  arch darcap_sword_3
+    chance 1
+  more
+  arch darcap_mace_1
+    chance 1
+  more
+  arch darcap_mace_2
+    chance 1
+  more
+  arch darcap_mace_3
+    chance 1
+  more
+  arch darcap_axe_1
+    chance 1
+  more
+  arch darcap_axe_2
+    chance 1
+  more
+  arch darcap_axe_3
+    chance 1
+  more
+  arch darcap_hammer_1
+    chance 1
+  more
+  arch darcap_hammer_2
+    chance 1
+  more
+  arch darcap_hammer_3
+    chance 1
+  more
+  arch darcap_spear_1
+    chance 1
+  more
+  arch darcap_spear_2
+    chance 1
+  more
+  arch darcap_flail_1
+    chance 1
+end
+
