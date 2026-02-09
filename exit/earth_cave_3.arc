@@ -10,6 +10,9 @@ exitstyle ladder
 decorstyle mine_nothing
 monsterstyle subterranean_7
 treasurestyle mine_worthless_mixed
+final_map /valleynoy/jewelertown/ruined_library
+hp 1
+sp 1
 xsize 6
 ysize 6
 symmetry 0
