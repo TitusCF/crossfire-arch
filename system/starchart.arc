@@ -2,8 +2,6 @@ Object starchart
 type 22
 slaying /HallOfSelection
 face starchart.111
-x 16
-y 16
 hp 1
 sp 1
 value 300
